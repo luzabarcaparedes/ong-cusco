@@ -16,3 +16,8 @@ __pycache__/
 
 .quarto/
 _site/
+
+# Expediente privado de constitución
+/06_constitucion/
+*.doc
+*.docx

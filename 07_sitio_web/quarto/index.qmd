@@ -1,65 +1,53 @@
 ---
-title: "Mapa integrado de cooperación — futura ONG en Cusco"
+title: "Por dónde empezar"
+toc: false
+sidebar: false
 ---
 
-Iniciativa social en formación desde Cusco, Perú. Nombre y constitución pendientes. Este sitio reúne investigación sobre cooperación, financiamiento y posibles alianzas.
-
-[Conocer la iniciativa](iniciativa/index.html){.btn .btn-outline-primary}
-
-## Explorar mecanismos de apoyo
-
 ```{=html}
-<section class="section wrap" id="mapa"><div class="section-heading"><div><p class="eyebrow">03 / CONOCER PARA CONECTAR</p><h2>Un mapa de cooperación.<br>Un punto de partida real.</h2></div><p class="muted">Embajadas, fondos, fundaciones y apoyos tecnológicos. Cada ficha distingue la modalidad, el estado observado y sus límites.</p></div><div class="catalog-controls"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Buscar país, entidad o tema…" aria-label="Buscar en el mapa"></label><label class="select-wrap">Tipo de apoyo<select id="type"><option value="all">Todos los apoyos</option><option value="proyectos">Fondos para proyectos</option><option value="alianzas">Cooperación y alianzas</option><option value="tecnologia">Tecnología y formación</option></select></label><label class="select-wrap">Estado<select id="status"><option value="all">Todos los estados</option><option value="abierta">Abierta / recepción</option><option value="seguimiento">Por verificar / anunciada</option><option value="cerrada">Cerrada / resultados</option></select></label></div><div class="results-meta"><p id="result-count" role="status" aria-live="polite">Cargando fuentes…</p><button id="reset" class="text-button" hidden>Limpiar filtros ↺</button></div><div id="catalog" class="catalog"></div><p id="empty" class="empty" hidden>No encontramos coincidencias. Prueba otro término o limpia los filtros.</p><button id="load-more" class="button button-outline" hidden>Ver más fuentes <span aria-hidden="true">↓</span></button><noscript><p>Para explorar las fichas, activa JavaScript o consulta el <a href="https://github.com/luabarcaparedes-art/ong-cusco/blob/main/01_investigacion/MAPA_FINANCIAMIENTO.md">mapa completo en Markdown</a>.</p></noscript><p class="catalog-note">Los estados corresponden a la última consulta. Una convocatoria abierta no implica elegibilidad de esta iniciativa. Las referencias pueden incluir documentos repetidos y los mecanismos incluyen apoyos no monetarios.</p></section>
-<template id="card-template"><article class="source-card"><div class="card-top"><span class="country"></span><span class="status-badge"></span></div><p class="card-type"></p><h3></h3><p class="card-org"></p><p class="card-summary"></p><p class="card-deadline"></p><details><summary>Condiciones y alcance <span aria-hidden="true">+</span></summary><p class="card-restrictions"></p><p class="card-eligibility"></p></details><a class="source-link" target="_blank" rel="noopener noreferrer">Consultar fuente <span aria-hidden="true">↗</span></a></article></template>
-
-<script src="app.js" defer></script>
+<div class="home-intro"><p class="eyebrow">CUSCO · PERÚ · INICIATIVA EN FORMACIÓN</p><p class="home-lead">Conectar necesidades locales con cooperación que pueda convertirse en proyectos.</p><p>55 entidades · 45 mecanismos · 126 referencias registradas</p></div>
 ```
 
+La mejor vía para esta iniciativa de Cusco es preparar una organización capaz de ejecutar proyectos y construir alianzas locales. Hay oportunidades próximas, pero la ONG todavía no está constituida: una fecha abierta no acredita que pueda postular.
 
-**Corte: 22 de octubre de 2026.** Versión 0.3. Europa conserva prioridad estratégica. Se incorporan Estados Unidos, Canadá y Asia; Oceanía aparece como anexo pertinente. La cobertura es parcial y se explicita país por país.
+**Criterio de priorización al 22 de octubre de 2026:** cercanía del plazo, encaje con población vulnerable, posibilidad de participación de una entidad nueva y evidencia territorial. Son recomendaciones de investigación; no compromisos de los financiadores. No hay monitoreo automático.
 
-## Informes y evidencia
+## Primero revisar los plazos próximos
 
-- [Complemento: multilaterales, empresas, tecnología y fondos nacionales](otras-fuentes.qmd).
-
-- [Europa: investigación inicial](europa.qmd).
-- [Estados Unidos y Canadá](america.qmd).
-- [Asia: China, Japón, Corea del Sur, India y Sudeste Asiático](asia.qmd).
-- [Australia y Nueva Zelanda](oceania.qmd).
-- [Fuentes consolidadas y calidad de acceso](fuentes.qmd).
-- [Cobertura por país y pendientes](https://github.com/luabarcaparedes-art/ong-cusco/blob/main/01_investigacion/COBERTURA_PAISES.md).
-- [Directorio público consolidado](https://github.com/luabarcaparedes-art/ong-cusco/blob/main/05_relacionamiento/DIRECTORIO_PUBLICO.md).
-- [Datos consolidados](https://github.com/luabarcaparedes-art/ong-cusco/blob/main/02_datos/cooperacion_consolidada_2026-10-22.json).
-
-## Prioridades prácticas
-
-| Prioridad | Vía | Decisión pendiente |
+| Vía | Fecha observada | Qué haría ahora |
 |---|---|---|
-| Urgente y condicionada | Chequia 2027; Australia DAP | Personería, experiencia, encaje y plazo; no se acredita elegibilidad de la futura ONG |
-| Alta para desarrollo de cartera | Canadá FCIL; Japón APC | Conseguir edición/bases actuales y confirmar acceso de una entidad nueva |
-| Alta para alianzas en Cusco | KOICA; cooperación española; Puna Resiliente Canadá/Alemania | Identificar ejecutores y roles posibles, sin presumir fondos para terceros |
-| Alianza internacional | IKI Medium con líder alemán | Revisar país, capacidad y requisitos del socio local |
-| Especializada | EEUU AFCP; Japón APCC | Solo proyectos patrimoniales/culturales con objetivo y capacidades reales |
-| Exploratoria | China, Tailandia, Singapur, Indonesia, Malasia, India | Distinguir cooperación técnica, becas, donaciones y fondos competitivos |
+| Chequia para proyectos 2027 | 28 de octubre de 2026 | Revisar las bases con una entidad ya inscrita que pueda liderar y ejecutar realmente el proyecto. La convocatoria excluye capacitación; no encaja por sí solo un taller de IA. No acelerar una constitución incompleta para este plazo. |
+| Australia DAP Perú y Bolivia | Conflicto entre 8 y 9 de noviembre de 2026 | Usar el 8 como meta interna prudente y confirmar el cierre oficial. Explorar un proyecto comunitario pequeño y medible con un socio habilitado. |
+| Fondo Cultural Suizo | Regla anual del 31 de octubre | Considerarlo solo si hay vínculo cultural suizo real; confirmar recepción y bases del ciclo. No es un fondo social genérico. |
 
-La prioridad es juicio propio de investigación, no recomendación de las embajadas. Ver condiciones y fuentes en cada informe. Una iniciativa por constituir no debe declararse elegible ni presentarse como ONG registrada.
+Fuentes: [Chequia](https://mzv.gov.cz/lima/es/comercio_y_economia/convocatoria_2027_para_proyectos_de_1.html), [Australia](https://peru.embassy.gov.au/limacastellano/Development.html), [Suiza](https://www.schweiz-peru.eda.admin.ch/es/proyectos-culturales). La revisión de Australia en esta actualización no permitió recargar la página; se conserva la salvedad del corte inicial.
 
-## Hallazgos territoriales de la ampliación
+[Ver catálogo de oportunidades](https://luabarcaparedes-art.github.io/ong-cusco/convocatorias.html){.btn .btn-primary}
 
-Estados Unidos tiene antecedentes patrimoniales en Cusco; Canadá, apoyo reportado a prevención de trata y cooperación altoandina; Japón, un precedente APC de turismo comunitario; Corea del Sur, programas bilaterales ambientales y patrimoniales. China cuenta con un antecedente de donación municipal y Tailandia con interés exploratorio en cultura/turismo. Australia lista una iniciativa STEM con alcance en Cusco. Los proyectos históricos, anuncios y aprobaciones tienen estados distintos en los informes; no se presentan todos como proyectos actualmente ejecutándose.
+## Después construir una cartera con aliados
 
-## Estado de convocatorias y 2027
+**Canadá FCIL y Japón APC.** Prepararía conceptos breves de inclusión económica o mejora de servicios básicos, con diagnóstico, comunidad y socio local identificados. La investigación no confirmó una convocatoria peruana abierta de estos mecanismos al corte. Seguir sus páginas y trabajar la elegibilidad antes de redactar propuestas extensas. [Informe de América del Norte](america.qmd) y [Asia](asia.qmd).
 
-Se mantiene lo verificado en Europa. En la ampliación se confirmó Australia abierta, con discrepancia de fechas de cierre que requiere aclaración. No se verificó una convocatoria abierta peruana actual de PDS estadounidense, FCIL canadiense o APC japonés. Esto no equivale a que dichos mecanismos no existan o hayan cesado.
+**Cooperación europea y KOICA.** Buscaría roles concretos en programas de Cusco: articulación comunitaria, formación, inclusión y seguimiento de resultados. Un programa bilateral en ejecución no equivale a una bolsa de subvenciones para terceros. [Informe de Europa](europa.qmd).
 
-No se identificaron anuncios firmes de una próxima edición 2027 para esos tres mecanismos. Un año fiscal, una beca 2026/27, un programa 2026–2028 o una cartera hasta 2032 no equivale a una convocatoria de subvenciones para ONG en 2027.
+**IKI Medium.** Tiene sentido si se encuentra un líder alemán y un problema climático concreto que la comunidad quiera resolver. Revisar las bases y capacidades requeridas; no asumir que una entidad recién creada puede liderar. [Bases IKI Medium](https://www.international-climate-initiative.com/en/find-funding/medium-grants/medium-grants-2026/).
 
-## Fuentes adicionales
+## Usar IA para resolver una necesidad concreta
 
-El consolidado incorpora 55 entidades, 45 mecanismos y 126 referencias. Cisco recibe conceptos durante el año, sujetos a elegibilidad; Microsoft y AWS ofrecen apoyo tecnológico, distinto de subvenciones en efectivo. PPD tiene antecedentes específicos de Cusco, pero las convocatorias revisadas están cerradas y exigen experiencia institucional. PROCOMPITE y FIDT tienen destinatarios específicos; no se presentan como fondos generales para una ONG nueva. Ver condiciones y fuentes en el informe complementario.
+Propondría un piloto pequeño de empleabilidad y alfabetización digital, con mujeres o jóvenes, contenidos accesibles sin conexión permanente y acompañamiento humano. Medir uso efectivo, habilidades y resultados de empleo o ingresos; no presentar como impacto el número de talleres impartidos.
 
-## Uso del mapa
+[Cisco](https://www.cisco.com/site/us/en/about/purpose/community-resilience/investments/global-impact-cash-grants.html) recibe conceptos durante el año y exige reconocimiento legal y condiciones de población beneficiaria. Es una vía para estudiar cuando exista capacidad de ejecución; la admisión del concepto no garantiza una subvención. Microsoft y AWS se registran como apoyo tecnológico, no como dinero disponible para operar. [Fuentes complementarias](otras-fuentes.qmd).
 
-Consultar el tipo de instrumento, estado, territorio, elegibilidad y fecha de evidencia antes de priorizar. Los montos se conservan en su moneda original. Los presupuestos bilaterales y montos ya adjudicados no son fondos a los que la ONG pueda pedir acceso automático. No se suman Ayllu Verde y el programa KOICA como proyectos distintos hasta aclarar su relación.
+## Qué dejaría para una segunda etapa
 
-La base consolidada integra los registros europeos y nuevos sin cambiar la instantánea europea. Algunas referencias distintas apuntan al mismo documento: el total de referencias no equivale a documentos únicos. El validador prepara la carga PostgreSQL; no hay servidor instalado ni comunicaciones enviadas.
+PPD ofrece antecedentes relevantes de Cusco, pero las ediciones revisadas están cerradas y requieren experiencia institucional. Green Grants no recibe solicitudes espontáneas. PROCOMPITE y FIDT se dirigen a productores organizados o gobiernos, respectivamente. Mantendría estos mecanismos como posibles alianzas o aprendizajes, sin invertir ahora en solicitudes que no correspondan.
+
+## Una secuencia práctica de preparación
+
+1. Completar nombre, asociados, consejo directivo, domicilio y expediente notarial; definir responsabilidades reales.
+2. Escoger un territorio y un problema con la comunidad, antes de escoger la convocatoria.
+3. Preparar un concepto de dos páginas, presupuesto por resultados, cronograma y posibles aliados.
+4. Establecer controles de fondos, protección de participantes y manejo de datos antes de usar IA con información personal.
+5. Validar las bases vigentes y el encaje de cada entidad antes de cualquier envío.
+
+[Explorar conceptos iniciales de proyectos](proyectos.qmd) · [Consultar el mapa estratégico completo](mapa.qmd)

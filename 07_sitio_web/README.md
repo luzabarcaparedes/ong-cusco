@@ -1,6 +1,6 @@
 # Sitio del Mapa Integrado de Cooperación
 
-El sitio principal se genera con Quarto desde `quarto/`. Incluye mapa, catálogo filtrable de 45 mecanismos, informes por región, conceptos de proyectos y fuentes, con navegación y búsqueda de texto. La presentación de la iniciativa permanece en `docs/iniciativa/`. “Proyecto Cusco” es una denominación descriptiva; la ONG todavía no tiene nombre definitivo ni constitución.
+El sitio principal se genera con Quarto desde `quarto/`. Incluye portada de recomendaciones, mapa estratégico, catálogo de 45 mecanismos con filtro por país del cooperante, tipo, estado y periodo; primero abiertas/anunciadas y luego anteriores, informes por región, conceptos de proyectos y fuentes, con navegación y búsqueda de texto. La presentación de la iniciativa permanece en `docs/iniciativa/`. “Proyecto Cusco” es una denominación descriptiva; la ONG todavía no tiene nombre definitivo ni constitución.
 
 ## Reconstrucción
 

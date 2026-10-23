@@ -1,0 +1,51 @@
+---
+title: "Mapa integrado de cooperación — futura ONG en Cusco"
+---
+
+**Corte: 22 de octubre de 2026.** Versión 0.3. Europa conserva prioridad estratégica. Se incorporan Estados Unidos, Canadá y Asia; Oceanía aparece como anexo pertinente. La cobertura es parcial y se explicita país por país.
+
+## Informes y evidencia
+
+- [Complemento: multilaterales, empresas, tecnología y fondos nacionales](otras-fuentes.qmd).
+
+- [Europa: investigación inicial](europa.qmd).
+- [Estados Unidos y Canadá](america.qmd).
+- [Asia: China, Japón, Corea del Sur, India y Sudeste Asiático](asia.qmd).
+- [Australia y Nueva Zelanda](oceania.qmd).
+- [Fuentes consolidadas y calidad de acceso](fuentes.qmd).
+- [Cobertura por país y pendientes](https://github.com/luabarcaparedes-art/ong-cusco/blob/main/01_investigacion/COBERTURA_PAISES.md).
+- [Directorio público consolidado](https://github.com/luabarcaparedes-art/ong-cusco/blob/main/05_relacionamiento/DIRECTORIO_PUBLICO.md).
+- [Datos consolidados](https://github.com/luabarcaparedes-art/ong-cusco/blob/main/02_datos/cooperacion_consolidada_2026-10-22.json).
+
+## Prioridades prácticas
+
+| Prioridad | Vía | Decisión pendiente |
+|---|---|---|
+| Urgente y condicionada | Chequia 2027; Australia DAP | Personería, experiencia, encaje y plazo; no se acredita elegibilidad de la futura ONG |
+| Alta para desarrollo de cartera | Canadá FCIL; Japón APC | Conseguir edición/bases actuales y confirmar acceso de una entidad nueva |
+| Alta para alianzas en Cusco | KOICA; cooperación española; Puna Resiliente Canadá/Alemania | Identificar ejecutores y roles posibles, sin presumir fondos para terceros |
+| Alianza internacional | IKI Medium con líder alemán | Revisar país, capacidad y requisitos del socio local |
+| Especializada | EEUU AFCP; Japón APCC | Solo proyectos patrimoniales/culturales con objetivo y capacidades reales |
+| Exploratoria | China, Tailandia, Singapur, Indonesia, Malasia, India | Distinguir cooperación técnica, becas, donaciones y fondos competitivos |
+
+La prioridad es juicio propio de investigación, no recomendación de las embajadas. Ver condiciones y fuentes en cada informe. Una iniciativa por constituir no debe declararse elegible ni presentarse como ONG registrada.
+
+## Hallazgos territoriales de la ampliación
+
+Estados Unidos tiene antecedentes patrimoniales en Cusco; Canadá, apoyo reportado a prevención de trata y cooperación altoandina; Japón, un precedente APC de turismo comunitario; Corea del Sur, programas bilaterales ambientales y patrimoniales. China cuenta con un antecedente de donación municipal y Tailandia con interés exploratorio en cultura/turismo. Australia lista una iniciativa STEM con alcance en Cusco. Los proyectos históricos, anuncios y aprobaciones tienen estados distintos en los informes; no se presentan todos como proyectos actualmente ejecutándose.
+
+## Estado de convocatorias y 2027
+
+Se mantiene lo verificado en Europa. En la ampliación se confirmó Australia abierta, con discrepancia de fechas de cierre que requiere aclaración. No se verificó una convocatoria abierta peruana actual de PDS estadounidense, FCIL canadiense o APC japonés. Esto no equivale a que dichos mecanismos no existan o hayan cesado.
+
+No se identificaron anuncios firmes de una próxima edición 2027 para esos tres mecanismos. Un año fiscal, una beca 2026/27, un programa 2026–2028 o una cartera hasta 2032 no equivale a una convocatoria de subvenciones para ONG en 2027.
+
+## Fuentes adicionales
+
+El consolidado incorpora 55 entidades, 45 mecanismos y 126 referencias. Cisco recibe conceptos durante el año, sujetos a elegibilidad; Microsoft y AWS ofrecen apoyo tecnológico, distinto de subvenciones en efectivo. PPD tiene antecedentes específicos de Cusco, pero las convocatorias revisadas están cerradas y exigen experiencia institucional. PROCOMPITE y FIDT tienen destinatarios específicos; no se presentan como fondos generales para una ONG nueva. Ver condiciones y fuentes en el informe complementario.
+
+## Uso del mapa
+
+Consultar el tipo de instrumento, estado, territorio, elegibilidad y fecha de evidencia antes de priorizar. Los montos se conservan en su moneda original. Los presupuestos bilaterales y montos ya adjudicados no son fondos a los que la ONG pueda pedir acceso automático. No se suman Ayllu Verde y el programa KOICA como proyectos distintos hasta aclarar su relación.
+
+La base consolidada integra los registros europeos y nuevos sin cambiar la instantánea europea. Algunas referencias distintas apuntan al mismo documento: el total de referencias no equivale a documentos únicos. El validador prepara la carga PostgreSQL; no hay servidor instalado ni comunicaciones enviadas.

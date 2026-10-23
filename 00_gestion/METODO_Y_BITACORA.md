@@ -58,3 +58,8 @@ Guardar una nueva instantánea y registrar qué cambió: apertura, cierre, adend
 ## Complemento y publicación — 22/10/2026
 
 Se agregan 15 entidades y 17 mecanismos de cooperación multilateral, empresas, tecnología y fondos nacionales, con 20 referencias. Consolidado: 55 entidades, 45 mecanismos, 126 referencias. Se prepara landing estática en `docs/`, reproducible con `scripts/construir_web.py`. Publicación solicitada en GitHub; ver registro de publicación.
+
+
+## Organización de la consulta pública
+
+Se separa la portada de recomendaciones del catálogo de oportunidades y el mapa estratégico. El catálogo incorpora país del cooperante y periodo, y ordena temporalmente con estado efectivo según calendario de Perú. Un plazo pasado no transforma automáticamente un ciclo anual en convocatoria nueva. Las recomendaciones mantienen las restricciones de elegibilidad y la fecha del corte. El expediente de constitución se organiza localmente fuera de Git y de la web pública.

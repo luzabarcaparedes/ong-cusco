@@ -2,7 +2,7 @@
 title: "Estados Unidos y Canadá — financiamiento y cooperación en Perú"
 ---
 
-Corte: **22 de octubre de 2026**, hora de Perú. Ampliación del mapa europeo; ver [mapa integrado](index.qmd). La futura ONG todavía está por constituir. Se distinguen subvenciones, programas con ejecutores y cooperación entre gobiernos.
+Corte: **22 de octubre de 2026**, hora de Perú. Ampliación del mapa europeo; ver [mapa integrado](mapa.qmd). La futura ONG todavía está por constituir. Se distinguen subvenciones, programas con ejecutores y cooperación entre gobiernos.
 
 ## Estados Unidos
 

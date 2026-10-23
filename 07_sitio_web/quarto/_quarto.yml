@@ -10,7 +10,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Mapa y convocatorias
+        text: Recomendaciones
+      - href: convocatorias.qmd
+        text: Oportunidades
+      - href: mapa.qmd
+        text: Mapa estratégico
       - href: proyectos.qmd
         text: Proyectos
       - href: fuentes.qmd
@@ -22,6 +26,8 @@ website:
     style: docked
     contents:
       - index.qmd
+      - convocatorias.qmd
+      - mapa.qmd
       - europa.qmd
       - america.qmd
       - asia.qmd

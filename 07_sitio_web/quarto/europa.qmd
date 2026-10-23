@@ -2,7 +2,7 @@
 title: "Cooperación europea para una futura ONG en Cusco"
 ---
 
-> Ampliación disponible: [mapa integrado de Europa, Estados Unidos, Canadá, Asia y Oceanía](index.qmd). Este informe conserva el corte europeo original.
+> Ampliación disponible: [mapa integrado de Europa, Estados Unidos, Canadá, Asia y Oceanía](mapa.qmd). Este informe conserva el corte europeo original.
 
 Fecha de corte: **22 de octubre de 2026, Perú**. Versión 0.1. Nombre de ONG pendiente.
 

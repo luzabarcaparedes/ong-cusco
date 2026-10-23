@@ -1,0 +1,45 @@
+# Por dónde empezar
+
+La mejor vía para esta iniciativa de Cusco es preparar una organización capaz de ejecutar proyectos y construir alianzas locales. Hay oportunidades próximas, pero la ONG todavía no está constituida: una fecha abierta no acredita que pueda postular.
+
+**Criterio de priorización al 22 de octubre de 2026:** cercanía del plazo, encaje con población vulnerable, posibilidad de participación de una entidad nueva y evidencia territorial. Son recomendaciones de investigación; no compromisos de los financiadores. No hay monitoreo automático.
+
+## Primero revisar los plazos próximos
+
+| Vía | Fecha observada | Qué haría ahora |
+|---|---|---|
+| Chequia para proyectos 2027 | 28 de octubre de 2026 | Revisar las bases con una entidad ya inscrita que pueda liderar y ejecutar realmente el proyecto. La convocatoria excluye capacitación; no encaja por sí solo un taller de IA. No acelerar una constitución incompleta para este plazo. |
+| Australia DAP Perú y Bolivia | Conflicto entre 8 y 9 de noviembre de 2026 | Usar el 8 como meta interna prudente y confirmar el cierre oficial. Explorar un proyecto comunitario pequeño y medible con un socio habilitado. |
+| Fondo Cultural Suizo | Regla anual del 31 de octubre | Considerarlo solo si hay vínculo cultural suizo real; confirmar recepción y bases del ciclo. No es un fondo social genérico. |
+
+Fuentes: [Chequia](https://mzv.gov.cz/lima/es/comercio_y_economia/convocatoria_2027_para_proyectos_de_1.html), [Australia](https://peru.embassy.gov.au/limacastellano/Development.html), [Suiza](https://www.schweiz-peru.eda.admin.ch/es/proyectos-culturales). La revisión de Australia en esta actualización no permitió recargar la página; se conserva la salvedad del corte inicial.
+
+[Ver catálogo de oportunidades](https://luabarcaparedes-art.github.io/ong-cusco/convocatorias.html){.btn .btn-primary}
+
+## Después construir una cartera con aliados
+
+**Canadá FCIL y Japón APC.** Prepararía conceptos breves de inclusión económica o mejora de servicios básicos, con diagnóstico, comunidad y socio local identificados. La investigación no confirmó una convocatoria peruana abierta de estos mecanismos al corte. Seguir sus páginas y trabajar la elegibilidad antes de redactar propuestas extensas. [Informe de América del Norte](america_norte/INFORME_EEUU_CANADA_2026-10-22.md) y [Asia](asia/INFORME_ASIA_2026-10-22.md).
+
+**Cooperación europea y KOICA.** Buscaría roles concretos en programas de Cusco: articulación comunitaria, formación, inclusión y seguimiento de resultados. Un programa bilateral en ejecución no equivale a una bolsa de subvenciones para terceros. [Informe de Europa](europa/INFORME_EUROPA_2026-10-22.md).
+
+**IKI Medium.** Tiene sentido si se encuentra un líder alemán y un problema climático concreto que la comunidad quiera resolver. Revisar las bases y capacidades requeridas; no asumir que una entidad recién creada puede liderar. [Bases IKI Medium](https://www.international-climate-initiative.com/en/find-funding/medium-grants/medium-grants-2026/).
+
+## Usar IA para resolver una necesidad concreta
+
+Propondría un piloto pequeño de empleabilidad y alfabetización digital, con mujeres o jóvenes, contenidos accesibles sin conexión permanente y acompañamiento humano. Medir uso efectivo, habilidades y resultados de empleo o ingresos; no presentar como impacto el número de talleres impartidos.
+
+[Cisco](https://www.cisco.com/site/us/en/about/purpose/community-resilience/investments/global-impact-cash-grants.html) recibe conceptos durante el año y exige reconocimiento legal y condiciones de población beneficiaria. Es una vía para estudiar cuando exista capacidad de ejecución; la admisión del concepto no garantiza una subvención. Microsoft y AWS se registran como apoyo tecnológico, no como dinero disponible para operar. [Fuentes complementarias](otras_fuentes/INFORME_COMPLEMENTARIO_2026-10-22.md).
+
+## Qué dejaría para una segunda etapa
+
+PPD ofrece antecedentes relevantes de Cusco, pero las ediciones revisadas están cerradas y requieren experiencia institucional. Green Grants no recibe solicitudes espontáneas. PROCOMPITE y FIDT se dirigen a productores organizados o gobiernos, respectivamente. Mantendría estos mecanismos como posibles alianzas o aprendizajes, sin invertir ahora en solicitudes que no correspondan.
+
+## Una secuencia práctica de preparación
+
+1. Completar nombre, asociados, consejo directivo, domicilio y expediente notarial; definir responsabilidades reales.
+2. Escoger un territorio y un problema con la comunidad, antes de escoger la convocatoria.
+3. Preparar un concepto de dos páginas, presupuesto por resultados, cronograma y posibles aliados.
+4. Establecer controles de fondos, protección de participantes y manejo de datos antes de usar IA con información personal.
+5. Validar las bases vigentes y el encaje de cada entidad antes de cualquier envío.
+
+[Explorar conceptos iniciales de proyectos](../04_cartera_proyectos/CONCEPTOS_INICIALES.md) · [Consultar el mapa estratégico completo](MAPA_FINANCIAMIENTO.md)
