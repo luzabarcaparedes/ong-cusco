@@ -1,0 +1,1655 @@
+{
+  "meta": {
+    "title": "Mapa inicial de cooperación europea para ONG en Cusco",
+    "version": "0.1",
+    "as_of": "2026-10-22",
+    "timezone": "America/Lima",
+    "scope": "Europa ampliada de trabajo + UE; revisión inicial desigual, no exhaustiva",
+    "organization_stage": "por_constituir",
+    "currency_policy": "Monedas originales, sin conversión de tipo de cambio"
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Chequia: convocatoria completa 2027",
+      "url": "https://mzv.gov.cz/lima/es/comercio_y_economia/convocatoria_2027_para_proyectos_de_1.html",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "contenido_consultado",
+      "note": "Cierre, monto, registro y exclusiones explícitos. Publicada 15/09/2026."
+    },
+    {
+      "id": "S02",
+      "title": "Suiza: proyectos culturales",
+      "url": "https://www.schweiz-peru.eda.admin.ch/es/proyectos-culturales",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "contenido_consultado",
+      "note": "Página de 28/09/2026; regla anual de recepción, vínculo suizo y monto."
+    },
+    {
+      "id": "S03",
+      "title": "Alemania: cooperación para el desarrollo",
+      "url": "https://lima.diplo.de/pe-es/willkommen/07-entwicklungszusammenarbeit",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "contenido_consultado",
+      "note": "Coordinación bilateral; GIZ y KfW. No acredita un fondo local abierto."
+    },
+    {
+      "id": "S04",
+      "title": "IKI Small Grants 2026",
+      "url": "https://www.international-climate-initiative.com/en/find-funding/small-grants/small-grants-2026/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Anuncio oficial recuperado por buscador; apertura futura condicionada; reapertura directa falló."
+    },
+    {
+      "id": "S05",
+      "title": "IKI Medium Grants 2026",
+      "url": "https://www.international-climate-initiative.com/en/find-funding/medium-grants/medium-grants-2026/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "contenido_consultado",
+      "note": "Entidad líder alemana; fechas y prioridades publicadas."
+    },
+    {
+      "id": "S06",
+      "title": "Fondo Regional de Cooperación Triangular: convocatoria",
+      "url": "https://fondo-cooperacion-triangular.net/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "contenido_consultado",
+      "note": "29.ª convocatoria; cierre 31/10/2026. Contradice listado APCI anterior."
+    },
+    {
+      "id": "S07",
+      "title": "Fondo Regional: proceso de postulación",
+      "url": "https://fondo-cooperacion-triangular.net/convocatorias-de-proyecto/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "contenido_consultado",
+      "note": "Entrega por embajadas alemanas, aval rector y compromisos; sin envío directo al Fondo."
+    },
+    {
+      "id": "S08",
+      "title": "Reino Unido: diálogos ciudadanos 2024",
+      "url": "https://www.gov.uk/government/news/call-for-bids-creating-spaces-for-citizen-dialogues",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "contenido_consultado",
+      "note": "Antecedente cerrado. Contiene inconsistencia: notificación a comienzos de octubre pese al cierre de octubre; no extrapolar."
+    },
+    {
+      "id": "S09",
+      "title": "Reino Unido: derechos LGBT+ en empleo",
+      "url": "https://www.gov.uk/government/news/call-for-bids-peru-promoting-lgbt-rights-in-the-workplace",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Antecedente de 2024 con ejecución hasta marzo 2025."
+    },
+    {
+      "id": "S10",
+      "title": "UE: sociedad civil, empleo juvenil 2024",
+      "url": "https://www.eeas.europa.eu/delegations/per%C3%BA/convocatoria-local-del-programa-tem%C3%A1tico-%E2%80%9Cuna-europa-global-para-las-organizaciones-de-la-sociedad_es",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Referencia 179470; cierre 21/05/2024."
+    },
+    {
+      "id": "S11",
+      "title": "IILA: Perú Social 2026",
+      "url": "https://iila.org/es/convocatoria-de-subvenciones-para-experiencias-innovadoras-de-respuesta-a-problemas-de-exclusion-social-y-economica-de-personas-en-situacion-de-vulnerabilidad-con-enfasis-en-la-generacion-de-empleo-d/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "contenido_consultado",
+      "note": "Cierre 30/09/2026 17:00 Roma y anexos; ya cerrado."
+    },
+    {
+      "id": "S12",
+      "title": "UE: anuncio Perú Social",
+      "url": "https://www.eeas.europa.eu/delegations/peru/convocatoria-de-subvenciones-para-experiencias-innovadoras-de-respuesta-problemas-de-exclusion_es",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "contenido_consultado",
+      "note": "Identifica a IILA como gestor y gare@iila.org como canal."
+    },
+    {
+      "id": "S13",
+      "title": "AECID: convocatorias Perú",
+      "url": "https://peru.aecid.es/convocatorias",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Incluye formación, que no equivale a subvención."
+    },
+    {
+      "id": "S14",
+      "title": "AECID: contacto Perú",
+      "url": "https://peru.aecid.es/somos-aecid/contacto",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Canal local de cooperación oce.peru@aecid.es."
+    },
+    {
+      "id": "S15",
+      "title": "AECID: memoria FCAS Perú 2022",
+      "url": "https://memoriafcas2022.aecid.es/peru/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "AMSAT Cusco-Apurímac finalizó en septiembre 2022."
+    },
+    {
+      "id": "S16",
+      "title": "Cooperación Española: marco Perú 2024–2027",
+      "url": "https://www.cooperacionespanola.es/wp-content/uploads/2025/04/MADS-Espana-Peru-2024-27_compressed-1.pdf",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Marco plurianual; no es anuncio de convocatoria 2027."
+    },
+    {
+      "id": "S17",
+      "title": "Suiza: programa Perú",
+      "url": "https://www.schweiz-peru.eda.admin.ch/es/programa-de-cooperacion-ci",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "SECO 2025–2028, gobernanza y economía inclusiva."
+    },
+    {
+      "id": "S18",
+      "title": "Suiza: SABA+",
+      "url": "https://www.cooperacionsuiza.pe/proyecto/saba/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Antecedente de articulación público-privada en saneamiento rural."
+    },
+    {
+      "id": "S19",
+      "title": "Cusco: alianza con Suiza",
+      "url": "https://www.gob.pe/institucion/regioncusco/noticias/1383560-gobierno-regional-cusco-y-suiza-consolidan-alianza-para-fortalecer-servicios-publicos-y-desarrollo-social-en-la-region",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Nota de 2026 sobre gestión pública y servicios. Estado de cada componente por verificar."
+    },
+    {
+      "id": "S20",
+      "title": "Francia: relación con Perú",
+      "url": "https://www.diplomatie.gouv.fr/en/information-by-country/peru/france-and-peru",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Actualización 02/04/2026; AFD y financiación de vivienda."
+    },
+    {
+      "id": "S21",
+      "title": "PRONIS: hospitales con Francia",
+      "url": "https://www.gob.pe/institucion/pronis/campa%C3%B1as/98493-proyectos-de-estado-a-estado-con-francia",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Hospital Antonio Lorena: mecanismo Gobierno a Gobierno, no subvención ONG."
+    },
+    {
+      "id": "S22",
+      "title": "France Volontaires: Perú",
+      "url": "https://france-volontaires.org/es/dans-le-monde/peru/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Red de organizaciones; vía de cooperación en voluntariado."
+    },
+    {
+      "id": "S23",
+      "title": "Bélgica: cooperación en Perú",
+      "url": "https://perou.diplomatie.belgium.be/es/cooperaci%C3%B3naldesarrollo/peru",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "contenido_consultado",
+      "note": "Actualización de página 06/09/2023: cierre bilateral 2019, programas ONG 2022–2026; actualizar ejecución efectiva."
+    },
+    {
+      "id": "S24",
+      "title": "Países Bajos: Human Rights Fund",
+      "url": "https://www.government.nl/themes/international-cooperation/human-rights/human-rights-fund",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Canal por embajadas; no confirma convocatoria peruana 2026."
+    },
+    {
+      "id": "S25",
+      "title": "Países Bajos: contacto Lima",
+      "url": "https://www.netherlandsandyou.nl/web/peru-en/about-us/contact-embassy-lima",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Alexander Kofman y central publicados."
+    },
+    {
+      "id": "S26",
+      "title": "Finlandia: Embajada Lima",
+      "url": "https://finlandabroad.fi/web/per/embajada",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "contenido_consultado",
+      "note": "Correo actual gov.fi, personal y concurrencias."
+    },
+    {
+      "id": "S27",
+      "title": "Finlandia: apoyo a OSC",
+      "url": "https://um.fi/project-support-to-civil-society-organisations",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Ciclo 2027–2030 postuló enero-febrero 2026; dirigido a OSC finlandesas."
+    },
+    {
+      "id": "S28",
+      "title": "Italia: cooperación para desarrollo",
+      "url": "https://amblima.esteri.it/es/italia-e-peru/cooperazione-allo-sviluppo/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Fondo Ítalo-Peruano cerrado 31/12/2018; red de ONG y contacto."
+    },
+    {
+      "id": "S29",
+      "title": "AICS OpenAid Perú",
+      "url": "https://www.openaid.aics.gov.it/recipient-country/PE",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Cartera lista salud/telemedicina, cooperativas amazónicas. Portal sin corte de proyecto comprobado: no inferir vigencia individual."
+    },
+    {
+      "id": "S30",
+      "title": "Noruega: representación en Perú",
+      "url": "https://www.norway.no/es/peru/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Relaciones desde Santiago; consulado honorario en Lima no es oficina de subvenciones."
+    },
+    {
+      "id": "S31",
+      "title": "Noruega: Grants Portal",
+      "url": "https://grants.mfa.no/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Canal oficial MFA/Norad; no se verificó una convocatoria específica elegible para Perú."
+    },
+    {
+      "id": "S32",
+      "title": "Suecia: reapertura prevista Perú",
+      "url": "https://www.regeringen.se/pressmeddelanden/2025/12/sverige-oppnar-ambassad-i-peru/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Prevista para otoño 2026; no acredita inauguración efectiva ni fondo."
+    },
+    {
+      "id": "S33",
+      "title": "Austria: cultura y ciencia en Perú",
+      "url": "https://www.bmeia.gv.at/es/ea-lima/relaciones-bilaterales/cultura-y-ciencia/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Incluye antecedente de electricidad para estudiantes en Pozuzo."
+    },
+    {
+      "id": "S34",
+      "title": "Austria: Embajada Lima",
+      "url": "https://www.bmeia.gv.at/es/ea-lima",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Correo general y central; no fondo social abierto verificado."
+    },
+    {
+      "id": "S35",
+      "title": "Polonia: relación con Perú",
+      "url": "https://www.gov.pl/web/peru-es/cuba",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "URL inusual pero contenido titulado Perú; menciona CEAC Cusco. Texto con datos históricos, cargos no actualizados."
+    },
+    {
+      "id": "S36",
+      "title": "Hungría: Embajada Lima",
+      "url": "https://lima.mfa.gov.hu/es",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Educación superior y becas; no equivale a subvención ONG."
+    },
+    {
+      "id": "S37",
+      "title": "Portugal: fondo triangular, resultados",
+      "url": "https://www.gob.pe/114027-ii-convocatoria-del-fondo-de-cooperacion-triangular-portugal-america-latina-palop-nuevo",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "APCI publica resultados de II convocatoria, 16/07/2026."
+    },
+    {
+      "id": "S38",
+      "title": "Luxemburgo/Costa Rica: COOPERA",
+      "url": "https://www.gob.pe/116162-programa-coopera-apoyo-a-la-cooperacion-sur-sur-y-triangular-nuevo",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Hasta €200.000 y alianzas; extracto APCI, acceso directo falló 418."
+    },
+    {
+      "id": "S39",
+      "title": "Costa Rica: lanzamiento COOPERA",
+      "url": "https://rree.go.cr/?cat=prensa&cont=593&id=8756&sec=servicios",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "contenido_consultado",
+      "note": "Anuncio 31/07/2026; cierre 04/09/2026 23:59 Costa Rica. Exige al menos tres países socios y participación en cuatro webinarios."
+    },
+    {
+      "id": "S40",
+      "title": "Liechtenstein: cooperación bilateral",
+      "url": "https://www.llv.li/de/landesverwaltung/amt-fuer-auswaertige-angelegenheiten/themen/internationale-humantaere-zusammenarbeit-und-entwicklung/bilaterale-entwicklungszusammenarbeit",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Perú entre países prioritarios LED; educación y desarrollo rural."
+    },
+    {
+      "id": "S41",
+      "title": "APCI: Mapa CTI",
+      "url": "https://mapacti.apci.gob.pe/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Registro territorial de proyectos; no se extrajo cartera filtrada."
+    },
+    {
+      "id": "S42",
+      "title": "APCI: cooperación triangular",
+      "url": "https://www.gob.pe/institucion/apci/tema/oportunidades-de-cooperacion-triangular",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Listado actualizado mayo 2026: no sustituye convocatorias posteriores."
+    },
+    {
+      "id": "S43",
+      "title": "MINAM: funcionarios cooperación alemana",
+      "url": "https://www.gob.pe/institucion/minam/noticias/1343265-peru-y-alemania-reafirman-alianza-para-fortalecer-la-gestion-ambiental-y-la-proteccion-de-la-biodiversidad",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Nota 29/01/2026 identifica Nicole Maldonado y Sabine Bloch."
+    },
+    {
+      "id": "S44",
+      "title": "UE: Delegación Perú",
+      "url": "https://www.eeas.europa.eu/peru_en",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Buzón general y dirección."
+    },
+    {
+      "id": "S45",
+      "title": "Finlandia: guía diplomática 28/04/2026",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/9820037/4735700-guia-diplomatica-y-lista-de-organismos-internacionales-y-cuerpo-consular-28-4-2026.pdf",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Guía oficial MRE confirma embajador y canal gov.fi."
+    },
+    {
+      "id": "S46",
+      "title": "AECID: evaluación 2025, firma de coordinador",
+      "url": "https://www.aecid.es/documents/6725225/0/03.%2BTERMINOS%2BDE%2BREFERENCIA%2B-%2BCoMext%2BEvaluaci%C3%B3n%2BFinal%2BExterna.pdf/d503fa99-0b56-fa21-37ab-fb16d8665fc6?t=1758821297415",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "José Roberto Piqueras Bouillon firma 25/09/2025. Reconfirmar cargo antes de carta."
+    },
+    {
+      "id": "S47",
+      "title": "AECID: acuaponía en Cusco",
+      "url": "https://es.linkedin.com/posts/aecid-peru_innovaci%C3%B3n-sostenible-para-llevar-a-la-mesa-activity-7467300303101607937-dS1J",
+      "checked_on": "2026-10-22",
+      "level": "institucional_red_social",
+      "access": "extracto_buscador",
+      "note": "Cuenta institucional anuncia inicio con Universidad de Sevilla y Guaman Poma; corroborar resolución y cronograma."
+    },
+    {
+      "id": "S48",
+      "title": "Reino Unido: reporte Principios Voluntarios 2024",
+      "url": "https://assets.publishing.service.gov.uk/media/688c948ee8ba9507fc1b0937/2024_UK_annual_report.pdf",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Registra intercambio con grupo de Cusco; propuesta de defensoras no prueba subvención adjudicada."
+    },
+    {
+      "id": "S49",
+      "title": "Eslovaquia: microgrants",
+      "url": "https://slovakaid.sk/mikrogranty/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Mecanismo general; sin elegibilidad peruana comprobada."
+    },
+    {
+      "id": "S50",
+      "title": "Irlanda: apoyo sociedad civil",
+      "url": "https://www.ireland.ie/en/irish-aid/who-we-work-with/civil-society/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Dirigido a organizaciones irlandesas e internacionales invitadas; no acceso peruano abierto confirmado."
+    },
+    {
+      "id": "S51",
+      "title": "Eslovenia: prioridades geográficas",
+      "url": "https://www.gov.si/en/topics/thematic-and-geographic-priorities-of-slovenias-development-cooperation/",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Referencia de cribado; no convocatoria para Perú encontrada."
+    },
+    {
+      "id": "S52",
+      "title": "Grecia: patrimonio con Perú",
+      "url": "https://www.gob.pe/institucion/rree/noticias/1369322-peru-y-grecia-fortalecen-cooperacion-en-materia-de-proteccion-del-patrimonio-arqueologico",
+      "checked_on": "2026-10-22",
+      "level": "primaria",
+      "access": "extracto_buscador",
+      "note": "Cooperación en patrimonio; no prueba de fondo concursable."
+    }
+  ],
+  "organizations": [
+    {
+      "id": "ORG_CZ",
+      "name": "Embajada de Chequia en Lima",
+      "country_code": "CZ",
+      "kind": "embajada",
+      "route": "Fondo directo pequeña escala",
+      "source_id": "S01",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_CH",
+      "name": "Embajada de Suiza / SECO",
+      "country_code": "CH",
+      "kind": "embajada_agencia",
+      "route": "Cultura directa; cooperación económica mediante programas",
+      "source_id": "S17",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_DE",
+      "name": "Embajada de Alemania / cooperación alemana",
+      "country_code": "DE",
+      "kind": "embajada",
+      "route": "Coordinación bilateral y triangular",
+      "source_id": "S03",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_IKI",
+      "name": "Iniciativa Internacional de Protección del Clima — IKI",
+      "country_code": "DE",
+      "kind": "programa_publico",
+      "route": "Concursos internacionales; no fondo propio de embajada",
+      "source_id": "S05",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_UK",
+      "name": "Embajada Británica en Lima",
+      "country_code": "GB",
+      "kind": "embajada",
+      "route": "Convocatorias temáticas locales",
+      "source_id": "S08",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_EU",
+      "name": "Delegación de la Unión Europea en Perú",
+      "country_code": "EU",
+      "kind": "delegacion_multilateral",
+      "route": "Convocatorias y socios implementadores",
+      "source_id": "S44",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_IILA",
+      "name": "IILA — Organización Internacional Ítalo-Latinoamericana",
+      "country_code": "INT",
+      "kind": "organismo_internacional",
+      "route": "Implementador Perú Social financiado por UE",
+      "source_id": "S11",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_ES",
+      "name": "AECID — Oficina de Cooperación Española en Perú",
+      "country_code": "ES",
+      "kind": "agencia",
+      "route": "Cooperación, alianzas y convocatorias por instrumento",
+      "source_id": "S14",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_FR",
+      "name": "Cooperación francesa / Embajada de Francia",
+      "country_code": "FR",
+      "kind": "embajada_red",
+      "route": "AFD, voluntariado y sociedad civil según instrumento",
+      "source_id": "S20",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_BE",
+      "name": "Embajada de Bélgica en Lima",
+      "country_code": "BE",
+      "kind": "embajada",
+      "route": "Alianzas con ONG belgas; bilateral concluida",
+      "source_id": "S23",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_NL",
+      "name": "Embajada de Países Bajos en Lima",
+      "country_code": "NL",
+      "kind": "embajada",
+      "route": "Consultar Human Rights Fund local",
+      "source_id": "S24",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_FI",
+      "name": "Embajada de Finlandia en Lima",
+      "country_code": "FI",
+      "kind": "embajada",
+      "route": "Consultar FLC actual; alianzas con OSC finlandesas",
+      "source_id": "S26",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_IT",
+      "name": "Embajada de Italia / AICS",
+      "country_code": "IT",
+      "kind": "embajada_agencia",
+      "route": "Red ONG y programas; FIP cerrado",
+      "source_id": "S28",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_NO",
+      "name": "Norad / Ministerio de Exteriores de Noruega",
+      "country_code": "NO",
+      "kind": "agencia",
+      "route": "Grants Portal; representación diplomática desde Santiago",
+      "source_id": "S31",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_SE",
+      "name": "Representación de Suecia para Perú",
+      "country_code": "SE",
+      "kind": "representacion_por_confirmar",
+      "route": "Reapertura anunciada para 2026; confirmar estado",
+      "source_id": "S32",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_AT",
+      "name": "Embajada de Austria en Lima",
+      "country_code": "AT",
+      "kind": "embajada",
+      "route": "Cooperación cultural y científica",
+      "source_id": "S34",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_PL",
+      "name": "Embajada de Polonia en Lima",
+      "country_code": "PL",
+      "kind": "embajada",
+      "route": "Contacto académico CEAC; fondo no verificado",
+      "source_id": "S35",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_HU",
+      "name": "Embajada de Hungría en Lima",
+      "country_code": "HU",
+      "kind": "embajada",
+      "route": "Educación superior y becas",
+      "source_id": "S36",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_PT",
+      "name": "Camões / cooperación portuguesa",
+      "country_code": "PT",
+      "kind": "agencia",
+      "route": "ONG portuguesas y cooperación triangular con PALOP",
+      "source_id": "S37",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_LU",
+      "name": "LuxDev — COOPERA Costa Rica/Luxemburgo",
+      "country_code": "LU",
+      "kind": "agencia",
+      "route": "Alianzas de cooperación Sur-Sur y triangular",
+      "source_id": "S38",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_LI",
+      "name": "LED — Liechtensteinischer Entwicklungsdienst",
+      "country_code": "LI",
+      "kind": "agencia",
+      "route": "Socios para educación y desarrollo rural en Perú",
+      "source_id": "S40",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_IE",
+      "name": "Irish Aid",
+      "country_code": "IE",
+      "kind": "agencia",
+      "route": "Organizaciones irlandesas e internacionales invitadas",
+      "source_id": "S50",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ORG_SK",
+      "name": "SlovakAid",
+      "country_code": "SK",
+      "kind": "agencia",
+      "route": "Microgrants generales; Perú no confirmado",
+      "source_id": "S49",
+      "verified_on": "2026-10-22"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP01",
+      "organization_id": "ORG_CZ",
+      "title": "Proyectos de desarrollo a pequeña escala 2027",
+      "status": "abierta",
+      "deadline_date": "2026-10-28",
+      "source_id": "S01",
+      "verified_on": "2026-10-22",
+      "currency": "CZK",
+      "amount_min": 250000,
+      "amount_max": 500000,
+      "deadline_time": null,
+      "deadline_timezone": null,
+      "execution": "marzo–octubre 2027",
+      "eligibility": "Registro de entidad y representación legal acreditados; una propuesta por entidad.",
+      "restrictions": "Excluye empresas, municipalidades, gobiernos regionales, Estado y ONU; excluye conferencias, seminarios y capacitaciones.",
+      "route": "lima.commerce@mzv.gov.cz; formulario en inglés",
+      "ngo_new": "No puede postular una iniciativa sin inscripción. Evaluar solo entidad elegible real con responsabilidad propia.",
+      "priority": "urgente_condicionada",
+      "geography": "Perú y Ecuador; Cusco no excluido en el anuncio",
+      "next_check": "2026-10-23"
+    },
+    {
+      "id": "OP02",
+      "organization_id": "ORG_CH",
+      "title": "Fondo Cultural Suizo, programación siguiente año",
+      "status": "recepcion_anual",
+      "deadline_date": "2026-10-31",
+      "source_id": "S02",
+      "verified_on": "2026-10-22",
+      "currency": "PEN",
+      "amount_min": null,
+      "amount_max": 10000,
+      "deadline_time": null,
+      "deadline_timezone": null,
+      "deadline_precision": "fin_de_mes_inferido_de_regla",
+      "execution": "2027 inferido de regla anual",
+      "eligibility": "Vínculo cultural con Suiza y propuesta completa.",
+      "restrictions": "Fondo cultural específico y disponibilidad presupuestal; no fondo social general.",
+      "route": "lima@eda.admin.ch",
+      "ngo_new": "Condiciones institucionales adicionales por confirmar.",
+      "priority": "condicionada_encaje_cultural",
+      "geography": "Perú–Suiza",
+      "next_check": "2026-10-23"
+    },
+    {
+      "id": "OP03",
+      "organization_id": "ORG_IKI",
+      "title": "IKI Medium Grants 2026",
+      "status": "abierta",
+      "deadline_date": "2027-01-12",
+      "source_id": "S05",
+      "verified_on": "2026-10-22",
+      "currency": "EUR",
+      "amount_min": 300000,
+      "amount_max": 800000,
+      "deadline_time": "11:59:00",
+      "deadline_timezone": "Europe/Berlin",
+      "execution": "2–3 años",
+      "eligibility": "Entidad líder sin fines de lucro establecida en Alemania y socios locales del Sur Global.",
+      "restrictions": "Elegibilidad país, experiencia y criterios completos deben revisarse; no postulación directa de ONG peruana.",
+      "route": "Plataforma oficial de ideas IKI",
+      "ngo_new": "Posible socio local sujeto a capacidad y bases; no elegibilidad confirmada.",
+      "priority": "alianza",
+      "geography": "1–2 países implementadores; Perú por confirmar en bases",
+      "next_check": "2026-10-29"
+    },
+    {
+      "id": "OP04",
+      "organization_id": "ORG_IKI",
+      "title": "IKI Small Grants 2026, octava ronda",
+      "status": "anunciada_condicionada",
+      "deadline_date": "2027-01-08",
+      "source_id": "S04",
+      "verified_on": "2026-10-22",
+      "currency": "EUR",
+      "amount_min": 60000,
+      "amount_max": 200000,
+      "opens_on": "2026-11-15",
+      "deadline_time": "23:59:00",
+      "deadline_timezone": "Europe/Berlin",
+      "execution": "1–2 años; inicio segundo trimestre 2028 o posterior",
+      "eligibility": "Organizaciones locales; validar países, antigüedad e ingresos en bases de esta edición.",
+      "restrictions": "Sujeta a aprobación de financiamiento; soluciones basadas en naturaleza.",
+      "route": "Portal IKI Small Grants",
+      "ngo_new": "No asumir que una entidad recién creada cumple experiencia y requisitos financieros.",
+      "priority": "seguimiento",
+      "geography": "Países en desarrollo y emergentes; elegibilidad Perú a validar",
+      "next_check": "2026-11-15"
+    },
+    {
+      "id": "OP05",
+      "organization_id": "ORG_DE",
+      "title": "29.ª convocatoria Fondo Regional Cooperación Triangular",
+      "status": "abierta",
+      "deadline_date": "2026-10-31",
+      "source_id": "S06",
+      "verified_on": "2026-10-22",
+      "currency": null,
+      "amount_min": null,
+      "amount_max": null,
+      "deadline_time": null,
+      "deadline_timezone": null,
+      "eligibility": "Alianza triangular; aval de instituciones rectoras y cartas de compromiso.",
+      "restrictions": "Se entrega oficialmente por embajadas alemanas, no directamente al Fondo.",
+      "route": "Embajada alemana + instituciones rectoras + GIZ; S07",
+      "ngo_new": "Alta complejidad; construir alianza, no tratar como microfondo para ONG nueva.",
+      "priority": "alianza_compleja",
+      "geography": "América Latina y Caribe y socios",
+      "extra_source_ids": [
+        "S07",
+        "S42"
+      ],
+      "next_check": "2026-10-23"
+    },
+    {
+      "id": "OP06",
+      "organization_id": "ORG_IILA",
+      "title": "Perú Social: empleo y protección social 2026",
+      "status": "cerrada",
+      "deadline_date": "2026-09-30",
+      "source_id": "S11",
+      "verified_on": "2026-10-22",
+      "currency": null,
+      "amount_min": null,
+      "amount_max": null,
+      "deadline_time": "17:00:00",
+      "deadline_timezone": "Europe/Rome",
+      "eligibility": "Revisar convocatoria y aclaraciones oficiales antes de reutilizar diseño.",
+      "restrictions": "Edición cerrada; no se ha confirmado reedición 2027.",
+      "route": "IILA; gare@iila.org según EEAS",
+      "ngo_new": "Antecedente temático, no postulación actual.",
+      "priority": "referencia_diseno",
+      "geography": "Perú",
+      "extra_source_ids": [
+        "S12"
+      ]
+    },
+    {
+      "id": "OP07",
+      "organization_id": "ORG_UK",
+      "title": "Creating spaces for citizen dialogues 2024",
+      "status": "cerrada",
+      "deadline_date": "2024-10-20",
+      "source_id": "S08",
+      "verified_on": "2026-10-22",
+      "currency": "GBP",
+      "amount_min": null,
+      "amount_max": 17000,
+      "deadline_time": "23:59:00",
+      "deadline_timezone": null,
+      "execution": "noviembre 2024–febrero 2025",
+      "eligibility": "Antecedente de diálogo descentralizado y sociedad civil.",
+      "restrictions": "No confirma convocatoria 2026/2027. Anuncio contiene inconsistencia en fecha de notificación.",
+      "route": "BEProjectsPeru@fcdo.gov.uk; reconfirmar uso actual",
+      "ngo_new": "Sirve para preparar capacidad y modelos.",
+      "priority": "referencia_diseno",
+      "geography": "Perú; interés fuera de Lima"
+    },
+    {
+      "id": "OP08",
+      "organization_id": "ORG_EU",
+      "title": "OSC: integración económica y social de juventudes vulnerables 2024",
+      "status": "cerrada",
+      "deadline_date": "2024-05-21",
+      "source_id": "S10",
+      "verified_on": "2026-10-22",
+      "currency": null,
+      "amount_min": null,
+      "amount_max": null,
+      "eligibility": "Convocatoria histórica referencia 179470.",
+      "restrictions": "No extrapolar bases ni calendario.",
+      "route": "Portal europeo de subvenciones",
+      "ngo_new": "Evaluar futuras ediciones con bases vigentes.",
+      "priority": "referencia_diseno",
+      "geography": "Perú"
+    },
+    {
+      "id": "OP09",
+      "organization_id": "ORG_FI",
+      "title": "Apoyo a OSC finlandesas 2027–2030",
+      "status": "cerrada",
+      "deadline_date": "2026-02-27",
+      "source_id": "S27",
+      "verified_on": "2026-10-22",
+      "currency": null,
+      "amount_min": null,
+      "amount_max": null,
+      "opens_on": "2026-01-16",
+      "eligibility": "OSC finlandesas; socios de países en desarrollo.",
+      "restrictions": "Ciclo 2027 ya convocado en 2026; no convocatoria local peruana verificada.",
+      "route": "Ministerio finlandés / socio finlandés",
+      "ngo_new": "Explorar socios; no acceso directo confirmado.",
+      "priority": "alianza_futura",
+      "geography": "Elegibilidad de proyectos en Perú según instrumento"
+    },
+    {
+      "id": "OP10",
+      "organization_id": "ORG_PT",
+      "title": "II Fondo triangular Portugal–América Latina–PALOP",
+      "status": "resultados_publicados",
+      "deadline_date": null,
+      "source_id": "S37",
+      "verified_on": "2026-10-22",
+      "currency": null,
+      "amount_min": null,
+      "amount_max": null,
+      "eligibility": "Alianza entre Iberoamérica y PALOP.",
+      "restrictions": "No nueva convocatoria 2027 confirmada.",
+      "route": "SEGIB / Camões / APCI",
+      "ngo_new": "Alianza a mediano plazo.",
+      "priority": "seguimiento",
+      "geography": "Iberoamérica y PALOP"
+    },
+    {
+      "id": "OP11",
+      "organization_id": "ORG_LU",
+      "title": "COOPERA 2026",
+      "status": "cerrada",
+      "deadline_date": "2026-09-04",
+      "source_id": "S39",
+      "verified_on": "2026-10-22",
+      "currency": "EUR",
+      "amount_min": null,
+      "amount_max": 200000,
+      "eligibility": "Alianza de al menos tres países socios, articulada con Costa Rica y ALC; requiere participación en webinarios según anuncio.",
+      "restrictions": "Confirmar bases, contrapartida y nueva edición; no asumir acceso individual.",
+      "route": "COOPERA@luxdev.lu según APCI",
+      "ngo_new": "Vía de alianza futura.",
+      "priority": "alianza_futura",
+      "geography": "Costa Rica y ALC",
+      "extra_source_ids": [
+        "S38"
+      ],
+      "deadline_time": "23:59:00",
+      "deadline_timezone": "America/Costa_Rica",
+      "opens_on": "2026-07-31"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "C01",
+      "organization_id": "ORG_CZ",
+      "label": "Sección comercial / convocatoria",
+      "email": "lima.commerce@mzv.gov.cz",
+      "phone": null,
+      "source_id": "S01",
+      "verified_on": "2026-10-22",
+      "contacted": false,
+      "purpose": "Consulta técnica sobre fondo 2027"
+    },
+    {
+      "id": "C02",
+      "organization_id": "ORG_CH",
+      "label": "Embajada / proyectos culturales",
+      "email": "lima@eda.admin.ch",
+      "phone": null,
+      "source_id": "S02",
+      "verified_on": "2026-10-22",
+      "contacted": false,
+      "purpose": "Propuestas culturales con vínculo suizo"
+    },
+    {
+      "id": "C03",
+      "organization_id": "ORG_ES",
+      "label": "Oficina AECID Perú",
+      "email": "oce.peru@aecid.es",
+      "phone": "+51 1 2027000",
+      "source_id": "S14",
+      "verified_on": "2026-10-22",
+      "contacted": false,
+      "purpose": "Orientación de instrumentos y alianzas"
+    },
+    {
+      "id": "C04",
+      "organization_id": "ORG_UK",
+      "label": "Buzón de proyectos publicado en 2024",
+      "email": "BEProjectsPeru@fcdo.gov.uk",
+      "phone": null,
+      "source_id": "S08",
+      "verified_on": "2026-10-22",
+      "contacted": false,
+      "purpose": "Reconfirmar vigencia antes de consulta general",
+      "freshness": "historico_2024"
+    },
+    {
+      "id": "C05",
+      "organization_id": "ORG_EU",
+      "label": "Delegación UE Perú",
+      "email": "delegation-peru@eeas.europa.eu",
+      "phone": null,
+      "source_id": "S44",
+      "verified_on": "2026-10-22",
+      "contacted": false,
+      "purpose": "Pedir derivación a cooperación y convocatorias"
+    },
+    {
+      "id": "C06",
+      "organization_id": "ORG_IILA",
+      "label": "Consultas Perú Social",
+      "email": "gare@iila.org",
+      "phone": null,
+      "source_id": "S12",
+      "verified_on": "2026-10-22",
+      "contacted": false,
+      "purpose": "Información del programa y futuras oportunidades"
+    },
+    {
+      "id": "C07",
+      "organization_id": "ORG_BE",
+      "label": "Embajada / cooperación",
+      "email": "lima@diplobel.fed.be",
+      "phone": null,
+      "source_id": "S23",
+      "verified_on": "2026-10-22",
+      "contacted": false,
+      "purpose": "Alianzas con ONG belgas; reconfirmar programación siguiente",
+      "freshness": "pagina_actualizada_2023"
+    },
+    {
+      "id": "C08",
+      "organization_id": "ORG_NL",
+      "label": "Central de Embajada",
+      "email": null,
+      "phone": "+51 1 2139800",
+      "source_id": "S25",
+      "verified_on": "2026-10-22",
+      "contacted": false,
+      "purpose": "Solicitar punto focal Human Rights Fund"
+    },
+    {
+      "id": "C09",
+      "organization_id": "ORG_FI",
+      "label": "Buzón general actual",
+      "email": "Sanomat.LIM@gov.fi",
+      "phone": "+51 1 2224466",
+      "source_id": "S26",
+      "verified_on": "2026-10-22",
+      "contacted": false,
+      "purpose": "Consultar disponibilidad FLC y alianzas"
+    },
+    {
+      "id": "C10",
+      "organization_id": "ORG_IT",
+      "label": "Embajada de Italia",
+      "email": "ambasciata.lima@esteri.it",
+      "phone": "+51 1 4632727",
+      "source_id": "S28",
+      "verified_on": "2026-10-22",
+      "contacted": false,
+      "purpose": "Derivación a cooperación y red de ONG"
+    },
+    {
+      "id": "C11",
+      "organization_id": "ORG_NO",
+      "label": "Portal oficial Norad/MFA",
+      "email": null,
+      "phone": null,
+      "source_id": "S31",
+      "verified_on": "2026-10-22",
+      "contacted": false,
+      "purpose": "Revisión de convocatorias; no utilizar soporte técnico para propuestas",
+      "url": "https://grants.mfa.no/"
+    },
+    {
+      "id": "C12",
+      "organization_id": "ORG_AT",
+      "label": "Buzón general embajada",
+      "email": "lima-ob@bmeia.gv.at",
+      "phone": "+51 1 4420503",
+      "source_id": "S34",
+      "verified_on": "2026-10-22",
+      "contacted": false,
+      "purpose": "Orientación sobre cooperación cultural/científica"
+    },
+    {
+      "id": "C13",
+      "organization_id": "ORG_LU",
+      "label": "Programa COOPERA",
+      "email": "COOPERA@luxdev.lu",
+      "phone": null,
+      "source_id": "S38",
+      "verified_on": "2026-10-22",
+      "contacted": false,
+      "purpose": "Bases y continuidad del programa"
+    },
+    {
+      "id": "C14",
+      "organization_id": "ORG_IKI",
+      "label": "Oficina IKI Medium Grants",
+      "email": null,
+      "phone": "+49 30 72618 0222",
+      "source_id": "S05",
+      "verified_on": "2026-10-22",
+      "contacted": false,
+      "purpose": "Consultas de convocatoria mediante formulario oficial"
+    }
+  ],
+  "people": [
+    {
+      "id": "P01",
+      "organization_id": "ORG_FI",
+      "name": "Lasse Keisalo",
+      "role": "Embajador",
+      "source_id": "S45",
+      "verified_on": "2026-10-22",
+      "note": "Guía abril 2026; usar canal institucional, no correo inferido.",
+      "email": null
+    },
+    {
+      "id": "P02",
+      "organization_id": "ORG_FI",
+      "name": "Henrik Veikanmaa",
+      "role": "Jefe de Misión Adjunto",
+      "source_id": "S26",
+      "verified_on": "2026-10-22",
+      "note": "Directorio oficial consultado; responsabilidad sobre fondos no confirmada.",
+      "email": null
+    },
+    {
+      "id": "P03",
+      "organization_id": "ORG_FI",
+      "name": "Dayana Silupu Larronda",
+      "role": "Asistente del Embajador",
+      "source_id": "S26",
+      "verified_on": "2026-10-22",
+      "note": "Posible derivación institucional; no se atribuye decisión sobre fondos.",
+      "email": null
+    },
+    {
+      "id": "P04",
+      "organization_id": "ORG_NL",
+      "name": "Alexander Kofman",
+      "role": "Embajador",
+      "source_id": "S25",
+      "verified_on": "2026-10-22",
+      "note": "Nombre publicado en página de contacto; no es necesariamente evaluador del fondo.",
+      "email": null
+    },
+    {
+      "id": "P05",
+      "organization_id": "ORG_DE",
+      "name": "Nicole Maldonado",
+      "role": "Jefa de Cooperación Alemana al Desarrollo en Perú",
+      "source_id": "S43",
+      "verified_on": "2026-10-22",
+      "note": "Identificada en nota de enero 2026; reconfirmar cargo al contactar.",
+      "email": null
+    },
+    {
+      "id": "P06",
+      "organization_id": "ORG_DE",
+      "name": "Sabine Bloch",
+      "role": "Embajadora",
+      "source_id": "S43",
+      "verified_on": "2026-10-22",
+      "note": "Identificada en enero 2026; reconfirmar cargo antes de carta nominal.",
+      "email": null
+    },
+    {
+      "id": "P07",
+      "organization_id": "ORG_ES",
+      "name": "José Roberto Piqueras Bouillon",
+      "role": "Coordinador General de Cooperación Española, evidencia 2025",
+      "source_id": "S46",
+      "verified_on": "2026-10-22",
+      "note": "Evidencia histórica; una página consular conserva otro nombre. No dar cargo por vigente sin confirmación.",
+      "email": null
+    }
+  ],
+  "projects": [
+    {
+      "id": "PR01",
+      "organization_id": "ORG_ES",
+      "title": "AMSAT: agua y saneamiento rural",
+      "geography": "Cusco y Apurímac",
+      "status": "finalizado_2022",
+      "source_id": "S15",
+      "verified_on": "2026-10-22",
+      "note": "Precedente territorial explícito; no fondo abierto."
+    },
+    {
+      "id": "PR02",
+      "organization_id": "ORG_CH",
+      "title": "SABA+: saneamiento rural",
+      "geography": "Sierra sur del Perú; vínculo Cusco por verificar en ficha completa",
+      "status": "antecedente",
+      "source_id": "S18",
+      "verified_on": "2026-10-22",
+      "note": "Articulación gobiernos y comunidades; no convocatoria."
+    },
+    {
+      "id": "PR03",
+      "organization_id": "ORG_CH",
+      "title": "Cooperación económica y servicios públicos",
+      "geography": "Cusco",
+      "status": "reportado_2026",
+      "source_id": "S19",
+      "verified_on": "2026-10-22",
+      "note": "Nota regional 2026; verificar nombres, presupuestos y plazos de componentes."
+    },
+    {
+      "id": "PR04",
+      "organization_id": "ORG_FR",
+      "title": "Hospital Antonio Lorena",
+      "geography": "Cusco",
+      "status": "cartera_reportada_2026",
+      "source_id": "S21",
+      "verified_on": "2026-10-22",
+      "note": "Gobierno a Gobierno; cooperación técnica/contractual, no donación a ONG."
+    },
+    {
+      "id": "PR05",
+      "organization_id": "ORG_PL",
+      "title": "Centro de Estudios Andinos Universidad de Varsovia",
+      "geography": "Cusco",
+      "status": "presencia_institucional",
+      "source_id": "S35",
+      "verified_on": "2026-10-22",
+      "note": "Cooperación académica; no demuestra fondo de la embajada."
+    },
+    {
+      "id": "PR06",
+      "organization_id": "ORG_UK",
+      "title": "Intercambio con grupo de Principios Voluntarios de Cusco",
+      "geography": "Cusco / Lima",
+      "status": "actividad_reportada_2024",
+      "source_id": "S48",
+      "verified_on": "2026-10-22",
+      "note": "El reporte menciona propuesta de defensoras; no acredita adjudicación en Cusco."
+    },
+    {
+      "id": "PR07",
+      "organization_id": "ORG_ES",
+      "title": "Acuaponía, seguridad alimentaria y medios de vida",
+      "geography": "Cusco",
+      "status": "inicio_anunciado_2026",
+      "source_id": "S47",
+      "verified_on": "2026-10-22",
+      "note": "Anuncio institucional en red social; verificar resolución, monto y ejecución con AECID/Guaman Poma."
+    },
+    {
+      "id": "PR08",
+      "organization_id": "ORG_IT",
+      "title": "Salud y telemedicina Perú–Bolivia",
+      "geography": "Perú y Bolivia; Cusco no acreditado",
+      "status": "cartera_sin_vigencia_individual",
+      "source_id": "S29",
+      "verified_on": "2026-10-22",
+      "note": "OpenAid presenta el proyecto; no prueba ejecución actual en Cusco."
+    },
+    {
+      "id": "PR09",
+      "organization_id": "ORG_AT",
+      "title": "Electricidad para estudiantes de Pozuzo",
+      "geography": "Pozuzo, Pasco; fuera de Cusco",
+      "status": "antecedente_sin_fecha_verificada",
+      "source_id": "S33",
+      "verified_on": "2026-10-22",
+      "note": "Ejemplo social/educativo, no convocatoria vigente."
+    }
+  ],
+  "country_coverage": [
+    {
+      "id": "AL",
+      "country": "Albania",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "AD",
+      "country": "Andorra",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "AT",
+      "country": "Austria",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S33",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "BY",
+      "country": "Bielorrusia",
+      "status": "pendiente_busqueda_individual",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "BE",
+      "country": "Bélgica",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S23",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "BA",
+      "country": "Bosnia y Herzegovina",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "BG",
+      "country": "Bulgaria",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "HR",
+      "country": "Croacia",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "CY",
+      "country": "Chipre",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "CZ",
+      "country": "Chequia",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S01",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "DK",
+      "country": "Dinamarca",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "EE",
+      "country": "Estonia",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "FI",
+      "country": "Finlandia",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S26",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "FR",
+      "country": "Francia",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S20",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "DE",
+      "country": "Alemania",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S03",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "GR",
+      "country": "Grecia",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S52",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "HU",
+      "country": "Hungría",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S36",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "IS",
+      "country": "Islandia",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "IE",
+      "country": "Irlanda",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S50",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "IT",
+      "country": "Italia",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S28",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "XK",
+      "country": "Kosovo",
+      "status": "pendiente_busqueda_individual",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "LV",
+      "country": "Letonia",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "LI",
+      "country": "Liechtenstein",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S40",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "LT",
+      "country": "Lituania",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "LU",
+      "country": "Luxemburgo",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S38",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "MT",
+      "country": "Malta",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "MD",
+      "country": "Moldavia",
+      "status": "pendiente_busqueda_individual",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "MC",
+      "country": "Mónaco",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ME",
+      "country": "Montenegro",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "NL",
+      "country": "Países Bajos",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S24",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "MK",
+      "country": "Macedonia del Norte",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "NO",
+      "country": "Noruega",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S30",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "PL",
+      "country": "Polonia",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S35",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "PT",
+      "country": "Portugal",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S37",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "RO",
+      "country": "Rumanía",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "RU",
+      "country": "Rusia",
+      "status": "pendiente_busqueda_individual",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "SM",
+      "country": "San Marino",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "RS",
+      "country": "Serbia",
+      "status": "busqueda_exploratoria_no_concluyente",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "SK",
+      "country": "Eslovaquia",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S49",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "SI",
+      "country": "Eslovenia",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S51",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "ES",
+      "country": "España",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S14",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "SE",
+      "country": "Suecia",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S32",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "CH",
+      "country": "Suiza",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S17",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "TR",
+      "country": "Turquía",
+      "status": "pendiente_busqueda_individual",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "UA",
+      "country": "Ucrania",
+      "status": "pendiente_busqueda_individual",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "GB",
+      "country": "Reino Unido",
+      "status": "fuente_identificada_revision_parcial",
+      "source_id": "S08",
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "VA",
+      "country": "Santa Sede",
+      "status": "pendiente_busqueda_individual",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "AM",
+      "country": "Armenia",
+      "status": "pendiente_busqueda_individual",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "AZ",
+      "country": "Azerbaiyán",
+      "status": "pendiente_busqueda_individual",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    },
+    {
+      "id": "GE",
+      "country": "Georgia",
+      "status": "pendiente_busqueda_individual",
+      "source_id": null,
+      "note": "No se acredita ausencia de fondos. Falta completar proyectos, contactos y revisión de bases país por país.",
+      "verified_on": "2026-10-22"
+    }
+  ]
+}

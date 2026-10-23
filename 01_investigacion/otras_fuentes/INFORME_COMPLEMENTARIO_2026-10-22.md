@@ -1,0 +1,44 @@
+# Fuentes que faltaban: complemento del mapa
+
+Corte: **22 de octubre de 2026**. Se amplía el mapa de embajadas hacia cinco vías: fondos multilaterales, fondos ambientales/comunitarios, filantropía empresarial, tecnología en especie y recursos públicos con gobiernos o productores. No se declara completado el universo de financiadores.
+
+## Prioridades incorporadas
+
+| Fuente | Qué aporta y cómo acceder | Estado y límite | Evidencia |
+|---|---|---|---|
+| PPD / GEF / PNUD | Donaciones comunitarias y proyectos estratégicos en paisajes altoandinos; presencia en Cusco | C4 cerró en agosto; C5 para Pitumarca cerró 19/10/2026. Ocho años de operación en estas ediciones estratégicas; ONG nueva no acredita ese requisito. | [C4](https://www.ppdperu.org/convocatoria-gef8-2026-c4/), [C5](https://www.ppdperu.org/convocatoria-ppd-gef-8-c5-2026-proyectos-estrategicos/) |
+| CEPF Andes Tropicales | Conservación a través de sociedad civil independiente | Operador informa que no hay convocatorias abiertas. Validar áreas elegibles, no todo Cusco. | [Operador regional](https://andestropicales.net/donaciones/) |
+| Fondo Socioambiental del Perú | Apoyo comunitario, derechos territoriales y clima | Raíces del Territorio 2027 cerró 30/09/2026; hasta S/18.000. Ámbito amazónico/afrodescendiente según bases, no todo Perú indistintamente. | [Convocatoria](https://fondoperu.org.pe/convocatoria-2027-raices-del-territorio/) |
+| BID / BID Lab / GDLab | Innovación, inclusión e investigación, con antecedentes de IA | Cada instrumento tiene destinatario distinto. No se confirmó aquí un concurso comunitario abierto y elegible para esta ONG. | [Convocatorias](https://www.iadb.org/en/how-we-can-work-together/calls-proposals), [GDLab](https://gdlab.iadb.org/en/call) |
+| CAF | Cooperación y retos regionales | El portal incluye compras, consultorías y fechas pasadas; no tratar todo como subvención. | [Portal](https://www.caf.com/es/trabaja-con-nosotros/convocatorias/) |
+| Cisco | Recepción de conceptos para impacto social con tecnología; propuesta completa por invitación | Recepción todo el año. Requiere entidad elegible; excluye salud y eventos/talleres aislados. El encaje tecnológico debe generar resultados medibles. | [Programa oficial](https://www.cisco.com/site/us/en/about/purpose/community-resilience/investments/global-impact-cash-grants.html) |
+| Google.org | Antecedente de IA con gobiernos para servicios públicos | AI for Government Innovation 2026 ya publica seleccionados; siguiente edición no confirmada. | [Programa](https://www.google.org/impact-challenges/ai-government-innovation/) |
+| Microsoft Nonprofits | Donaciones y descuentos de tecnología | Reconocimiento legal y misión elegible; revisar productos y disponibilidad país. No efectivo para ejecutar cualquier proyecto. | [Elegibilidad](https://www.microsoft.com/en-us/nonprofits/eligibility?rtc=1) |
+| AWS / TechSoup | Créditos de servicios de nube | Validar socio y elegibilidad peruana; no son dinero, ni cubren todos los costos. | [Programa](https://aws.amazon.com/government-education/nonprofits/nonprofit-credit-program/) |
+| Fundación SUEZ | Agua, saneamiento e higiene en países emergentes | El portal fija la recepción del ciclo 2026 en septiembre de 2025. No apertura 2027 confirmada. La línea de inclusión en Francia es distinta. | [Áreas](https://www.suez.com/en/group/sustainable-development/suez-foundation/call-projects), [Portal](https://56q2bbylxfnk.optimytool.com/fr) |
+| Fundación MAPFRE | Proyectos sociales y alianzas en Perú | Cartera existente no equivale a libre recepción de propuestas; no extrapolar convocatoria española a Perú. | [Cartera Perú](https://www.fundacionmapfre.org/accion-social/proyectos/internacionales/peru/) |
+| Global Greengrants | Financiación comunitaria ambiental mediante redes | No acepta propuestas no solicitadas. No es una ventanilla abierta para enviar proyectos. | [Preguntas frecuentes](https://www.greengrants.org/faqs/) |
+| PROCOMPITE | Cofinanciamiento productivo para agentes económicos organizados | Los productores y sus organizaciones son destinatarios; no es sostenimiento institucional de ONG. Ver bases territoriales. | [Beneficiarios](https://procompite.produce.gob.pe/quienes-pueden-participar/) |
+| FIDT / MEF | Infraestructura y servicios mediante gobiernos locales | Gobiernos como postulantes; rol eventual de ONG no se presume ni implica transferencia de recursos. | [MEF](https://www.mef.gob.pe/es/fidt) |
+| Pluspetrol | Cooperación comunitaria con antecedente en Megantoni, Cusco | Reporte corporativo 2024; mecanismo de alianza por identificar, sin concurso abierto verificado. | [Reporte](https://www.pluspetrol.net/es/sostenibilidad/Informe_deSostenibilidad_Pluspetrol_2024.pdf) |
+| Canadá, vía adicional a FCIL | Nota conceptual no solicitada para iniciativas selectivas | No es un llamado general ni garantía de financiación; debe alinearse a prioridades. | [Canal oficial](https://www.international.gc.ca/world-monde/funding-financement/apply_funding-demande_financement.aspx?lang=eng) |
+
+## Implicaciones para Cusco
+
+PPD aporta un vínculo territorial explícito en **Lares y Pitumarca**. Sus ediciones estratégicas requieren experiencia institucional considerable: conviene aprender del modelo e identificar socios; no usar sus montos como ingresos previsibles de la ONG. La ficha del programa también documenta una cartera comunitaria altoandina. [PNUD](https://www.undp.org/es/peru/proyectos/programa-de-pequenas-donaciones-ppd)
+
+Cisco es una vía a desarrollar para educación, oportunidades económicas o resiliencia con tecnología. El programa pide más que comprar equipos o impartir un taller. Microsoft y AWS pueden reducir costos operativos después de constituirse, pero su valor no debe sumarse como efectivo recibido.
+
+Pluspetrol permite ampliar el mapa empresarial hacia la Amazonía de Cusco. Antes de cualquier aproximación hay que identificar programa, interlocutor, condiciones territoriales y capacidad real de colaboración; el reporte no demuestra que exista una convocatoria a terceros.
+
+## Brechas que permanecen
+
+- Revisar fundaciones y programas corporativos con presencia territorial: minería, energía, banca, telecomunicaciones y turismo. Faltan expedientes y reglas específicas de varias empresas.
+- Completar convocatorias multilaterales de salud, educación, derechos y empleo, sin limitar la cartera a ambiente.
+- Completar cooperación latinoamericana, embajadas de otras regiones y países pendientes de Europa y Asia.
+- Verificar antigüedad, personería, contrapartida y costos elegibles con bases completas antes de postular.
+- Mapear socios comunitarios y municipales de Cusco; su existencia no sustituye acuerdos de trabajo.
+
+## Publicación
+
+Se prepara una landing de una **iniciativa en formación**, sin atribuir nombre definitivo, personería, convenios, beneficiarios o resultados que todavía no existen. El catálogo muestra fecha de corte y fuentes; no es monitoreo en tiempo real. El repositorio conserva investigación, datos y código. No se han enviado cartas ni solicitudes de financiamiento.

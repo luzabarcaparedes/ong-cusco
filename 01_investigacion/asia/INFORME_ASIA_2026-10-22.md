@@ -1,0 +1,114 @@
+# Asia — cooperación y financiamiento para una ONG en Cusco
+
+Corte: **22 de octubre de 2026**. Prioridad: China, Japón y Corea del Sur; revisión adicional de India y Sudeste Asiático. La evidencia de interés en Cusco se distingue de proyectos aprobados y convocatorias abiertas. No se acreditó una convocatoria asiática actualmente abierta y elegible para esta iniciativa por constituir.
+
+## Comparación para decidir dónde avanzar
+
+| País / mecanismo | Modalidad identificada | Cusco | Acceso a desarrollar |
+|---|---|---|---|
+| Japón — APC/APCC | Subvenciones comunitarias de infraestructura/equipamiento y culturales | Antecedente APC explícito | Pedir bases actuales; requisitos históricos son exigentes para ONG nueva |
+| Japón — JICA | Cooperación técnica/financiera y Programa de Socios | Agua/alcantarillado en Cusco y Sicuani | Identificar contrapartes y condiciones del instrumento |
+| Corea del Sur — KOICA | Programas bilaterales de economía circular y patrimonio | Aprobaciones y reportes concretos | Articulación con equipo técnico y gobiernos; sin concurso ONG localizado |
+| China | Donaciones soberanas/municipales y cooperación educativa | Donación sanitaria municipal y vínculo educativo | Presentación institucional y cooperación concertada; sin fondo competitivo verificado |
+| Tailandia — TICA | Cooperación técnica 2026–2028 | Interés exploratorio en cultura/turismo | Canal APCI–TICA y embajada; no proyecto financiado comprobado en Cusco |
+| India — ITEC | Formación para profesionales | No se acreditó proyecto territorial financiado | Formación del equipo, diferenciada de fondos institucionales |
+| Singapur — SCE/SCP | Gobierno digital y formación | No se acreditó proyecto financiado en Cusco | Alianza pública y capacitación; no fondo abierto de ONG |
+| Indonesia, Malasia, Vietnam y Filipinas | Vínculos bilaterales; en Malasia, becas | Sin financiación territorial acreditada en esta revisión | Revisión exploratoria y aclaración de representación/acceso |
+
+La tabla es una valoración de trabajo. Las fuentes y limitaciones por país figuran a continuación.
+
+## Japón: vía comunitaria con antecedentes en Cusco
+
+El programa **APC de Seguridad Humana** financia infraestructura y equipamiento para necesidades básicas. La página disponible está fechada en **marzo de 2023**: pide experiencia mínima de tres años, estados financieros y registro APCI para ONG. También publica exclusiones de gastos y equipos. Sus cifras y calendario se conservan como históricos, no como condiciones garantizadas en 2026. [Programa APC](https://www.pe.emb-japan.go.jp/itpr_ja/00_000307.html)
+
+Sí hay actividad reciente: en septiembre de 2026 se firmó un proyecto de aulas y equipamiento con COPRODELI en San Martín. Eso confirma continuidad del programa, pero no una ventanilla abierta ni elegibilidad de nuestra iniciativa. [Contrato FY2026](https://www.pe.emb-japan.go.jp/itprtop_es/11_000001_02917.html)
+
+En **Cusco**, un discurso oficial de **12 de marzo de 2015** documenta un contrato APC con CODESPA para un local turístico comunitario en Janac, Chuquibamba, con construcción y equipamiento. Es un precedente especialmente pertinente para turismo comunitario y economía local. Su fecha de rastreo reciente no lo convierte en proyecto de 2026. [Documento de la embajada](https://www.pe.emb-japan.go.jp/jp/DISC%20firma%20APC%2012%203%202015.pdf)
+
+**APCC cultural** es otra modalidad que atiende entidades locales y organizaciones culturales/comunitarias. Debe distinguirse de APC de seguridad humana y de cooperación cultural gubernamental. Su encaje exige un objetivo cultural sustantivo. [Cooperación cultural](https://www.pe.emb-japan.go.jp/itpr_es/00_000349.html)
+
+**JICA** publica una cartera con el proyecto de agua y alcantarillado **PE-P29**, que incluye Cusco y Sicuani, además del Programa de Socios JICA. La cartera no demuestra que una ONG peruana pueda pedir directamente recursos de esos proyectos. Falta revisar cada mecanismo y su contraparte. [Perfiles JICA Perú](https://www.jica.go.jp/spanish/overseas/peru/activities/activity05.html)
+
+**Próximo paso recomendado:** consulta técnica sobre edición vigente, antigüedad y estados financieros; después valorar infraestructura educativa, equipamiento productivo o acceso a servicios con aliado competente. Un curso básico de IA o compra de computadoras no debe presentarse como automáticamente elegible.
+
+## Corea del Sur: evidencia territorial fuerte, acceso distinto
+
+APCI informó en mayo de 2025 la aprobación de **hasta US$20 millones**, para **2025–2032**, en el proyecto de economía circular para turismo sostenible en Cusco, con KOICA. El objetivo incluye residuos municipales inorgánicos y calidad de vida. Se registra como programa bilateral aprobado, no como un monto disponible para que una ONG postule. [APCI](https://www.gob.pe/institucion/apci/noticias/1175463-apci-peru-y-corea-aprueban-proyecto-de-cooperacion-por-us-20-millones-para-impulsar-turismo-sostenible-en-cusco)
+
+El Gobierno Regional reportó en 2026 **Ayllu Verde**, intervención en 12 distritos de Cusco y Urubamba, y cooperación para conservación y gestión de **Machupicchu**. Ayllu Verde puede corresponder a la misma línea aprobada por APCI: se marcó como posible duplicado y **no se sumaron montos**. Falta identificar contratos, ejecutores y espacios de participación. [Reporte regional](https://www.gob.pe/institucion/regioncusco/noticias/1411950-cusco-y-corea-lideran-revolucion-ambiental-megaproyectos-de-inversion-son-eje-de-la-sostenibilidad-en-la-region)
+
+La estrategia oficial de asociación con Perú también contiene una referencia a startups y TIC con CONCYTEC. Es una pista para cooperación tecnológica; no acredita concurso para ONG. [Documento ODA Korea](https://odakorea.go.kr/static/CPS/CPS%28eng%29/PER.pdf)
+
+**Acceso propuesto:** consultar a KOICA Perú por el equipo de Cusco y sus contrapartes. Una ONG podría explorar aportes comunitarios, inclusión, capacidades o seguimiento de resultados, pero no se han comprobado mecanismos de contratación o subdonación. Evitar presentar la cooperación coreana como una convocatoria abierta.
+
+## China: cooperación concertada y antecedentes locales
+
+Un convenio publicado en abril de 2026 contempla una donación de **100 millones de RMB al Gobierno peruano**, destinada a proyectos que acuerden ambos gobiernos. No es un fondo de libre postulación para ONG. La publicación no acredita desembolso ni asignación a Cusco; no se sumó con otros convenios de igual monto encontrados. [Convenio publicado](https://busquedas.elperuano.pe/dispositivo/NL/2502583-1)
+
+Para **Cusco** se localizó un antecedente de **2020**: donación sanitaria del Gobierno Municipal de Chongqing a Cusco y Yaquerana. Demuestra cooperación subnacional, sin convocatoria competitiva. [Cancillería peruana](https://www.gob.pe/institucion/rree/noticias/341327-ciudad-del-cusco-y-distrito-de-yaquerana-en-loreto-reciben-donacion-de-gobierno-municipal-popular-de-chongqing)
+
+El Instituto Confucio de la Universidad Ricardo Palma publica una sede Cusco. Es un vínculo educativo para explorar, no evidencia de que financie proyectos sociales de ONG. [URP](https://www.urp.edu.pe/institutos/instituto-confucio/)
+
+**Acceso propuesto:** precisar una necesidad territorial y explorar cooperación educativa, asistencia técnica o aportes concertados con actores públicos. La [embajada](https://pe.china-embassy.gov.cn/esp/) muestra actividad reciente de Song Yang. No se confirmó un programa de pequeñas subvenciones con bases, montos y calendario para entidades peruanas nuevas. Tampoco una convocatoria 2027.
+
+## Sudeste Asiático
+
+### Tailandia
+
+El Ministerio de Exteriores tailandés publicó en marzo de 2026 el programa de cooperación con Perú **2026–2028**, en desarrollo alternativo, salud pública, ciencia y tecnología, ambiente y cooperación para el desarrollo. Se canaliza mediante TICA/APCI y contrapartes; no se identificó una subvención abierta de acceso general. [Ministerio de Tailandia](https://www.mfa.go.th/en/content/apci-eng)
+
+En Cusco hubo una reunión exploratoria en 2024 sobre cultura y turismo. Eso acredita interés, pero no adjudicación ni financiación. [Cancillería](https://www.gob.pe/institucion/rree/noticias/1005170-cusco-y-tailandia-exploran-oportunidades-de-cooperacion-en-cultura-y-turismo)
+
+Es el vínculo del Sudeste Asiático más concreto localizado para Cusco. Conviene identificar contrapartes y proyectos del marco técnico antes de diseñar una solicitud.
+
+### Indonesia
+
+La fuente diplomática indonesia reconoce embajada en Lima y cooperación con Perú, incluida agricultura y formación diplomática. No se encontró fondo abierto para ONG peruana ni proyecto financiado en Cusco en esta revisión. [Relación bilateral](https://www.kemlu.go.id/id/kebijakan/kerja-sama-bilateral)
+
+El buzón general figura en el pie del sitio oficial de la misión; su publicación en una página de servicios no lo convierte en ventanilla de subvenciones. [Misión Lima](https://www.kemlu.go.id/id/lima/pelayanan-perwakilan/visa-kunjungan)
+
+### Malasia
+
+Se identificó **MTCP**, con becas de maestría 2026 y plazo ya vencido. Es formación individual, no fondos para ejecución de proyectos. La elegibilidad peruana y los mecanismos de cursos cortos deben revisarse por edición. [Portal MTCP](https://mtcp.kln.gov.my/index.php/scholarship), [cartel oficial 2026](https://www.kln.gov.my/documents/34163/10369904/POSTER%2BMTCP%2BSCHOLARSHIP%2B2026.pdf/efc7d629-4109-49d9-9dc7-da8157464fc9)
+
+Hay directorio peruano histórico de la embajada en Lima; falta actualizar contacto y equipo antes de usarlo. [INEI, directorio 2022–2023](https://cdn.www.gob.pe/uploads/document/file/4051570/Directorio%20de%20Cooperaci%C3%B3n%20T%C3%A9cnica%20Internacional%2C%202022-2023.pdf)
+
+### Singapur
+
+El memorando **APCI–Singapore Cooperation Enterprise**, firmado en agosto de 2025, abarca gobierno digital, administración pública y sostenibilidad. Separadamente, el **Singapore Cooperation Programme** ofrece formación y registra participación peruana. Ninguna de esas referencias acredita un fondo de libre postulación de ONG ni un proyecto financiado en Cusco. [Acuerdo APCI–SCE](https://www.gob.pe/institucion/rree/noticias/1226782-peru-y-singapur-suscriben-memorando-de-entendimiento-para-fortalecer-la-cooperacion-bilateral), [SCP y ciudades](https://www.clc.gov.sg/capability-development/international-programmes/mfa-singapore-cooperation-programmes-%28scp%29---topical-programmes/)
+
+Puede interesar para fortalecer capacidades de gobiernos locales; debe confirmarse quién puede ser nominado y qué cubre cada curso. No se presume embajada residente en Lima.
+
+### Vietnam y Filipinas
+
+Las fuentes identificadas muestran relación bilateral y planes de representación, con situación por confirmar. Una declaración de 2024 habla de priorizar embajada vietnamita residente en Lima; una nota peruana de 2026 menciona evaluación de reapertura filipina. No se presentan como misiones residentes confirmadas al corte. [Vietnam](https://www.gob.pe/institucion/rree/noticias/1056936-declaracion-conjunta-sobre-el-fortalecimiento-de-la-relacion-bilateral-entre-la-republica-del-peru-y-la-republica-socialista-de-vietnam), [Filipinas](https://www.gob.pe/institucion/rree/noticias/1401147-embajadora-azurin-presenta-cartas-credenciales-al-presidente-de-la-republica-de-filipinas)
+
+Filipinas y Perú exploraron cooperación agrícola, acuícola y pesquera en julio de 2026. No hay en esta evidencia una subvención para ONG o un proyecto Cusco financiado. [Agenda técnica](https://www.gob.pe/institucion/rree/noticias/1417588-peru-y-filipinas-trabajan-en-cooperacion-bilateral-para-los-sectores-agricola-acuicultura-y-pesqueria)
+
+**Brunéi, Camboya, Laos, Myanmar y Timor-Leste** quedan expresamente pendientes de búsqueda individual. No se concluye ausencia de cooperación ni presencia de fondos en Perú.
+
+## India: formación útil para el componente tecnológico
+
+ITEC ofrece capacitación para profesionales peruanos y bolivianos. La página local publica condiciones de edad, experiencia e inglés y un procedimiento de nominación que debe actualizarse por curso. Es una posibilidad de formación de equipo, no dinero para la ONG. [ITEC en Perú](https://eoilima.gov.in/page/itec/)
+
+La relación bilateral documenta asistencia sanitaria reciente y un centro de excelencia TIC en Lima. No se acreditó una financiación específica de IA comunitaria ni un proyecto Cusco. [Embajada India](https://eoilima.gov.in/page/india-peru/)
+
+## Directorio inicial y personas
+
+| Actor | Contacto público | Observación |
+|---|---|---|
+| Japón APC/APCC | apcjapon@li.mofa.go.jp; +51 1 2199535 | Pedir condiciones actuales. [Fuente](https://www.pe.emb-japan.go.jp/itpr_es/00_000349.html) |
+| Corea, Embajada | peru@mofa.go.kr; +51 1 6325000 | Derivación a cooperación. [Directorio](https://pe.mofa.go.kr/pe-es/wpge/m_6875/contents.do) |
+| KOICA Perú | recepcion.koicaperu@gmail.com; +51 1 6275050 | Publicado en directorio oficial; reconfirmar equipo Cusco. [Fuente](https://pe.mofa.go.kr/pe-es/wpge/m_6875/contents.do) |
+| China | chiemba@gmail.com; +51 1 4429458 | Guía MRE de abril 2026; reconfirmar canal general. [Guía](https://cdn.www.gob.pe/uploads/document/file/9820037/4735700-guia-diplomatica-y-lista-de-organismos-internacionales-y-cuerpo-consular-28-4-2026.pdf) |
+| Tailandia | +51 1 6375620; [sitio de contacto](https://lima.thaiembassy.org/en/page/contact-us?menu=5f4b820dbb15786eb663a092) | Pedir punto focal TICA; correo no recuperado con certeza |
+| Indonesia | lima.kbri@kemlu.go.id; +51 1 2222822 | Buzón general del pie institucional. [Fuente](https://www.kemlu.go.id/id/lima/pelayanan-perwakilan/visa-kunjungan) |
+| Malasia | mwlima@kln.gov.my | Dato histórico 2022–2023; actualizar antes de uso. [Fuente](https://cdn.www.gob.pe/uploads/document/file/4051570/Directorio%20de%20Cooperaci%C3%B3n%20T%C3%A9cnica%20Internacional%2C%202022-2023.pdf) |
+
+Se incorporaron al directorio nombres con fuente: YAMAMOTO Tsuyoshi, Youngwoo Kim, Jong-Uk Choi, Song Yang y Chulvat Narinthrangura. Los cargos con evidencia anterior se deben reconfirmar; ningún nombre implica por sí solo potestad de financiar la ONG. No se reconstruyeron correos personales ni se contactó a terceros.
+
+## Siguientes pasos
+
+Priorizar una consulta de elegibilidad a Japón y una de articulación territorial a KOICA; contrastar proyectos con contrapartes de Cusco. Para China y Tailandia, distinguir cooperación técnica y donaciones concertadas de subvenciones. La IA puede apoyar formación, registros productivos, acceso a servicios o gestión comunitaria, siempre subordinada al resultado financiable; ninguna fuente consultada garantiza financiarla.
+
+No hay calendario asiático 2027 de subvenciones a esta ONG confirmado. Tailandia tiene un marco que incluye 2027 y Corea un proyecto plurianual: eso no equivale a nuevas convocatorias. Falta revisar bases completas, cartas de cooperación y acuerdos de implementación. Fuentes y tipo de acceso en [registro consolidado](../FUENTES.md).

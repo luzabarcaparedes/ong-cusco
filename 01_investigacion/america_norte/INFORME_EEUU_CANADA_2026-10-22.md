@@ -1,0 +1,54 @@
+# Estados Unidos y Canadá — financiamiento y cooperación en Perú
+
+Corte: **22 de octubre de 2026**, hora de Perú. Ampliación del mapa europeo; ver [mapa integrado](../MAPA_FINANCIAMIENTO.md). La futura ONG todavía está por constituir. Se distinguen subvenciones, programas con ejecutores y cooperación entre gobiernos.
+
+## Estados Unidos
+
+La vía local de **Diplomacia Pública (PDS/APS)** está documentada por APCI para el año fiscal 2025, con cierre el **25 de mayo de 2025**. No se recuperó una convocatoria peruana 2026/2027 íntegra y vigente. El enlace oficial de la embajada devolvió dificultades técnicas; no se sustituyeron sus bases con las de misiones estadounidenses en otros países. [APCI, convocatoria FY2025](https://www.gob.pe/institucion/apci/campa%C3%B1as/106781-aviso-de-oportunidad-de-financiacion-concurso-de-pequenas-subvenciones)
+
+El **Fondo del Embajador para Preservación Cultural (AFCP)** tiene actividad reciente: se publicó en septiembre de 2026 la selección del museo de la Universidad Nacional de Trujillo. El monto adjudicado no debe interpretarse como techo general del programa. La edición 2026 tiene resultados publicados; no se confirmó convocatoria 2027. Es una vía de conservación patrimonial, no un fondo general para empleo o salud. [El Peruano, resultado 2026](https://www.elperuano.pe/noticia/304860-la-libertad-fondo-del-embajador-de-los-ee-uu-otorga-us-245-000-al-museo-de-arqueologia-antropologia-e-historia-de)
+
+Hay dos antecedentes explícitos en **Cusco**:
+
+| Proyecto | Evidencia y alcance | Lectura para la ONG |
+|---|---|---|
+| Colección fotográfica Martín Chambi | Adjudicación 2021 por US$475.299 a Asociación Martín Chambi; conservación y catalogación digital | Demuestra apoyo a una entidad local y a tecnología aplicada a patrimonio; no prueba ejecución actual. [DDC Cusco](https://www.culturacusco.gob.pe/noticia/imagen/coleccion-fotografica-martin-chambi-gana-fondo-del-embajador-para-la-preservacion-del-patrimonio-cultural-2021-de-la-embajada-de-los-estados-unidos/) |
+| Capilla Virgen Purificada de Canincunca | Fondo de la Embajadora 2024, Huaro, Quispicanchi | Precedente patrimonial. Falta confirmar monto, ejecutor y situación contractual. [DDC Cusco](https://www.culturacusco.gob.pe/noticia/imagen/ministro-de-cultura-anuncia-puesta-en-valor-de-la-capilla-virgen-purificada-de-canincunca-en-cusco/) |
+
+La fecha dinámica de cabecera de una web no es la fecha del proyecto: el artículo de Martín Chambi está fechado en septiembre de 2021.
+
+Otra vía es **Bosques Tropicales**, derivada del canje de deuda Perú–Estados Unidos y gestionada mediante Profonanpe. La edición 2025-I incluyó Cusco dentro de Amazonía Sur y proyectos de conservación y alternativas económicas. Está cerrada. Se localizó además cronograma de subproyectos 2025-2 con cierre en febrero de 2026; no se comprobó una nueva recepción abierta al corte. [Descripción institucional IICA](https://bio-emprender.iica.int/iica-opportunities/fondo-concursable-bosques-tropicales/), [concursos del operador](https://web.profonanpe.org.pe/concursos/), [cronograma 2025-2](https://profonanpe.org.pe/wp-content/uploads/2026/02/Cronograma-convocatoria-2025-2.docx.pdf)
+
+**Acceso propuesto:** priorizar PDS si aparece una convocatoria alineada con educación o capacidades; AFCP solo para una línea patrimonial sólida; Bosques Tropicales si existe trabajo real con comunidades y conservación. Las reglas exactas de elegibilidad siguen pendientes de revisar en nuevas bases. No se concluye que la ONG pueda postular ahora.
+
+Los registros antiguos de USAID se tratarán como antecedentes que requieren verificación individual: existe documentación oficial de reorganización de funciones en 2025, por lo que una cartera anterior no acredita continuidad. [Documento al Congreso, notificación de marzo de 2025](https://www.govinfo.gov/content/pkg/CHRG-119hhrg60777/pdf/CHRG-119hhrg60777.pdf)
+
+## Canadá
+
+El **Fondo Canadiense para Iniciativas Locales (FCIL/CFLI)** es una vía de especial interés para organizaciones locales. El registro canadiense confirma su operación en Perú/Bolivia en ciclos anteriores. La convocatoria 2025–26 difundida por IICA cerró el **19 de marzo de 2025**. El índice oficial consultado no mostró una ficha peruana actual: eso deja la convocatoria 2026/27 **por verificar**, no demuestra cierre definitivo del mecanismo. No se trasladan a Perú fechas ni montos de Canadá en otros países. [Programa oficial](https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/index.aspx?lang=eng), [cartera Lima 2024–2025](https://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P014221046), [difusión 2025–26](https://bio-emprender.iica.int/iica-opportunities/fondo-canadiense-para-iniciativas-locales/)
+
+Ámbitos pertinentes de la cooperación canadiense incluyen igualdad, gobernanza, clima y medios de vida indígenas. Son prioridades de relación bilateral; no garantizan que una edición del FCIL cubra todos esos temas. [Relaciones Canadá–Perú](https://www.international.gc.ca/country-pays/peru-perou/relations.aspx?lang=eng)
+
+**Cusco tiene antecedentes concretos:**
+
+- **Una Sola Voz:** CHS Alternativo informa actividades de prevención de trata y fortalecimiento jurídico apoyadas por FCIL en Cusco en 2025. Es evidencia del ejecutor; falta contrastar el convenio del donante. [Reporte de CHS](https://chsalternativo.org/reportealternativo/2025/12/01/cusco-impulsamos-taller-para-fortalecer-la-respuesta-juridica-contra-la-trata-de-personas/)
+- **Puna Resiliente:** cooperación de Alemania y Canadá con ámbito altoandino que incluye Cusco. Canadá publica resultados hasta marzo de 2026 y antecedentes de dos convocatorias. No se acredita que continúe abierta la recepción de solicitudes. [MIDAGRI](https://www.gob.pe/institucion/midagri/noticias/1132703-gobierno-lanza-proyecto-puna-resiliente-para-beneficio-de-familias-productoras-de-zonas-altoandinas), [resultados del donante](https://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/p011566001?wbdisable=true)
+
+Para identificar **socios implementadores** hay otras carteras anunciadas en 2025: PROMESA con Cuso International (empleo e inclusión de migrantes y comunidades de acogida), ELLAS+ con DID (Alto Mayo) y CACAO+ con SOCODEVI (Amazonas, Cajamarca y San Martín). Sus horizontes publicados llegan a 2030/2031; eso no implica fondos abiertos para terceros ni cobertura de Cusco. [Anuncio canadiense](https://www.canada.ca/en/global-affairs/news/2025/08/project-announcements-by-secretary-of-state-sarai-in-peru-and-colombia.html)
+
+**Acceso propuesto:** preguntar por el próximo FCIL, sus prioridades y elegibilidad de entidades nuevas; identificar una necesidad concreta de Cusco antes de la presentación. Para clima y producción rural, explorar el ecosistema Puna Resiliente y sus condiciones territoriales. Una alianza solo procede si las bases la permiten.
+
+## Contactos públicos y cargos
+
+| Actor | Canal | Propósito |
+|---|---|---|
+| Embajada EEUU | Central +51 1 6182000, [contacto oficial](https://pe.usembassy.gov/contact/) | Pedir derivación a Diplomacia Pública/AFCP; la agencia consular Cusco atiende asuntos consulares. |
+| Profonanpe/Bosques Tropicales | convocatoriasACBT@profonanpe.org.pe, publicado en [bases 2025](https://profonanpe.org.pe/wp-content/uploads/2025/05/Bases-Bosques-Tropicales.pdf) | Reconfirmar canal y siguiente edición; dato histórico. |
+| Embajada Canadá | lima@international.gc.ca; +51 1 3193200 | Pedir punto focal FCIL/desarrollo. [Directorio oficial](https://www.international.gc.ca/country-pays/peru-perou/lima.aspx?lang=eng) |
+| Equipo Puna Resiliente | punaresiliente@giz.de | Consultas de programa y ámbito; tiene oficina en Cusco. [Contacto](https://punaresiliente.pe/contacto/) |
+
+La guía diplomática de abril 2026 identifica a **Anik Desmeules-Raggio** como Consejera de Desarrollo de Canadá; reconfirmar funciones. El **15 de octubre de 2026** Canadá anunció que **Joya Donnelly** reemplazará a **Jean-Dominique Ieraci**. El anuncio no acredita asunción efectiva ni presentación de credenciales; conviene dirigir primero la consulta a la oficina. [Guía MRE](https://cdn.www.gob.pe/uploads/document/file/9820037/4735700-guia-diplomatica-y-lista-de-organismos-internacionales-y-cuerpo-consular-28-4-2026.pdf), [nombramiento anunciado](https://www.canada.ca/en/global-affairs/news/2026/10/announcement-of-new-diplomatic-appointments.html)
+
+## Qué queda pendiente
+
+Recuperar bases peruanas vigentes PDS/AFCP y FCIL; aclarar calendario 2027 sin inferirlo; contrastar ejecutores y contratos Cusco; revisar requisitos de personería, trayectoria y registro de cada instrumento. No se han enviado mensajes ni solicitado fondos. Los fallos de acceso y la calidad de evidencia constan en el [registro consolidado de fuentes](../FUENTES.md).
