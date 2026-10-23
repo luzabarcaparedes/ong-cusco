@@ -22,7 +22,7 @@ La mejor vía para esta iniciativa de Cusco es preparar una organización capaz 
 
 Fuentes: [Chequia](https://mzv.gov.cz/lima/es/comercio_y_economia/convocatoria_2027_para_proyectos_de_1.html), [Australia](https://peru.embassy.gov.au/limacastellano/Development.html), [Suiza](https://www.schweiz-peru.eda.admin.ch/es/proyectos-culturales). La revisión de Australia en esta actualización no permitió recargar la página; se conserva la salvedad del corte inicial.
 
-[Ver catálogo de oportunidades](https://luabarcaparedes-art.github.io/ong-cusco/convocatorias.html){.btn .btn-primary}
+[Ver catálogo de oportunidades](https://luzabarcaparedes.github.io/ong-cusco/convocatorias.html){.btn .btn-primary}
 
 ## Después construir una cartera con aliados
 

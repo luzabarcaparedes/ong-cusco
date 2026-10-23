@@ -13,9 +13,9 @@ title: "Mapa integrado de cooperación — futura ONG en Cusco"
 - [Asia: China, Japón, Corea del Sur, India y Sudeste Asiático](asia.qmd).
 - [Australia y Nueva Zelanda](oceania.qmd).
 - [Fuentes consolidadas y calidad de acceso](fuentes.qmd).
-- [Cobertura por país y pendientes](https://github.com/luabarcaparedes-art/ong-cusco/blob/main/01_investigacion/COBERTURA_PAISES.md).
-- [Directorio público consolidado](https://github.com/luabarcaparedes-art/ong-cusco/blob/main/05_relacionamiento/DIRECTORIO_PUBLICO.md).
-- [Datos consolidados](https://github.com/luabarcaparedes-art/ong-cusco/blob/main/02_datos/cooperacion_consolidada_2026-10-22.json).
+- [Cobertura por país y pendientes](https://github.com/luzabarcaparedes/ong-cusco/blob/main/01_investigacion/COBERTURA_PAISES.md).
+- [Directorio público consolidado](https://github.com/luzabarcaparedes/ong-cusco/blob/main/05_relacionamiento/DIRECTORIO_PUBLICO.md).
+- [Datos consolidados](https://github.com/luzabarcaparedes/ong-cusco/blob/main/02_datos/cooperacion_consolidada_2026-10-22.json).
 
 ## Prioridades prácticas
 

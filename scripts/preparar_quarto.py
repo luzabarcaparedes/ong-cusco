@@ -11,7 +11,7 @@ for name,src in reports.items():
   target=m[1]
   if '://' in target or target.startswith('#') or target.endswith('.qmd'):return m[0]
   dest=(p.parent/target.split('#')[0]).resolve();url=lookup.get(str(dest))
-  if not url:url='https://github.com/luabarcaparedes-art/ong-cusco/blob/main/'+str(dest.relative_to(r))
+  if not url:url='https://github.com/luzabarcaparedes/ong-cusco/blob/main/'+str(dest.relative_to(r))
   return ']('+url+')'
  s=re.sub(r'\]\(([^)]+)\)',link,s)
  if name=='convocatorias':
@@ -30,7 +30,7 @@ for name,src in reports.items():
     - data/
 website:
   title: "Mapa Integrado de Cooperación"
-  site-url: https://luabarcaparedes-art.github.io/ong-cusco/
+  site-url: https://luzabarcaparedes.github.io/ong-cusco/
   navbar:
     left:
       - href: index.qmd
@@ -44,7 +44,7 @@ website:
       - href: fuentes.qmd
         text: Fuentes
     right:
-      - href: https://github.com/luabarcaparedes-art/ong-cusco
+      - href: https://github.com/luzabarcaparedes/ong-cusco
         text: GitHub
   sidebar:
     style: docked

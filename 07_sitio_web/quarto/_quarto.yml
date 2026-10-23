@@ -6,7 +6,7 @@ project:
     - data/
 website:
   title: "Mapa Integrado de Cooperación"
-  site-url: https://luabarcaparedes-art.github.io/ong-cusco/
+  site-url: https://luzabarcaparedes.github.io/ong-cusco/
   navbar:
     left:
       - href: index.qmd
@@ -20,7 +20,7 @@ website:
       - href: fuentes.qmd
         text: Fuentes
     right:
-      - href: https://github.com/luabarcaparedes-art/ong-cusco
+      - href: https://github.com/luzabarcaparedes/ong-cusco
         text: GitHub
   sidebar:
     style: docked

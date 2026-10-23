@@ -5,11 +5,11 @@ Iniciativa por constituir; nombre pendiente. Inicio y corte de esta investigaci�
 ## Empezar aquí
 
 - [Recomendaciones y prioridades](01_investigacion/RECOMENDACIONES.md).
-- [Catálogo por país y estado](https://luabarcaparedes-art.github.io/ong-cusco/convocatorias.html).
+- [Catálogo por país y estado](https://luzabarcaparedes.github.io/ong-cusco/convocatorias.html).
 
 Sitio generado con Quarto: portada de recomendaciones, catálogo ordenado por actualidad con filtro por país del cooperante, mapa estratégico e informes por región. [Instrucciones de reconstrucción](07_sitio_web/README.md).
 
-- [Landing y catálogo público](https://luabarcaparedes-art.github.io/ong-cusco/).
+- [Landing y catálogo público](https://luzabarcaparedes.github.io/ong-cusco/).
 - [Otras fuentes: cooperación multilateral, empresas y fondos nacionales](01_investigacion/otras_fuentes/INFORME_COMPLEMENTARIO_2026-10-22.md).
 
 - **[Mapa integrado: Europa, Estados Unidos, Canadá, Asia y anexo Oceanía](01_investigacion/MAPA_FINANCIAMIENTO.md)**.
