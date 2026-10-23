@@ -63,3 +63,8 @@ Se agregan 15 entidades y 17 mecanismos de cooperación multilateral, empresas, 
 ## Organización de la consulta pública
 
 Se separa la portada de recomendaciones del catálogo de oportunidades y el mapa estratégico. El catálogo incorpora país del cooperante y periodo, y ordena temporalmente con estado efectivo según calendario de Perú. Un plazo pasado no transforma automáticamente un ciclo anual en convocatoria nueva. Las recomendaciones mantienen las restricciones de elegibilidad y la fecha del corte. El expediente de constitución se organiza localmente fuera de Git y de la web pública.
+
+
+## Enfoque institucional propuesto
+
+Se contrastan prioridades de la cooperación y antecedentes territoriales para proponer dos programas: inclusión económica y aprendizaje digital; medios de vida sostenibles y economía circular. IA, participación y articulación municipal se tratan como método transversal. La portada institucional y el plan de desarrollo del sitio se publican como propuestas por validar. Las fuentes de contraste se guardan separadas del corte de oportunidades. No se declaran nuevas alianzas, capacidad técnica acreditada ni proyectos ejecutados.

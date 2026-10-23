@@ -1,0 +1,45 @@
+# Cooperación con propósito territorial
+
+```{=html}
+<div class="institutional-home">
+<section class="mission-hero" aria-labelledby="mission-title">
+<div><p class="eyebrow">DESDE CUSCO · PARA EL PERÚ</p><h1 id="mission-title">Aprender, generar oportunidades<br>y cuidar el territorio.</h1><p class="mission-lead">Una iniciativa social en formación que busca conectar inclusión económica, capacidades digitales y sostenibilidad con las necesidades de las comunidades.</p><p>Nos proponemos trabajar con mujeres y jóvenes que enfrentan barreras de acceso a oportunidades, junto a organizaciones locales, gobiernos y cooperación internacional.</p><div class="mission-actions"><a class="mission-button" href="enfoque.html">Conocer nuestro enfoque</a><a class="mission-secondary" href="#construir-una-alianza">Explorar una colaboración ↓</a></div></div>
+<aside class="mission-aside" aria-label="Agenda propuesta"><p class="eyebrow">UNA AGENDA PARA CONSTRUIR</p><p class="agenda-number">02</p><p class="agenda-label">programas iniciales propuestos</p><ol><li>Aprendizaje e inclusión económica</li><li>Medios de vida sostenibles</li></ol><p class="aside-foot">Participación comunitaria, articulación local e IA accesible como método transversal.</p></aside>
+</section>
+<p class="institution-status"><strong>Estado institucional:</strong> nombre definitivo y constitución pendientes. Presentamos una agenda y conceptos en diseño; todavía no anunciamos proyectos ejecutados, convenios ni respaldo de los cooperantes citados.</p>
+<section class="mission-section" aria-labelledby="areas-title"><p class="eyebrow">EN QUÉ QUEREMOS TRABAJAR</p><h2 id="areas-title">Dos programas que se refuerzan.</h2><div class="program-grid">
+<article class="program-card"><span class="program-index">01 / CAPACIDADES E INGRESOS</span><h3>Aprender para generar oportunidades</h3><p>Preparar itinerarios de aprendizaje práctico, alfabetización digital y acompañamiento para acceder a empleo o fortalecer una actividad productiva.</p><p><strong>Primer concepto a validar:</strong> capacidades digitales aplicadas a un oficio o pequeño negocio, con materiales descargables y facilitación presencial.</p><p class="program-result">Miraremos resultados: autonomía en tareas, empleo o mejora de ingresos; además de participación en actividades.</p><a href="enfoque.html#programa-1-aprender-para-generar-oportunidades">Ver la hipótesis de intervención →</a></article>
+<article class="program-card"><span class="program-index">02 / ECONOMÍA Y TERRITORIO</span><h3>Medios de vida que cuidan el territorio</h3><p>Vincular oportunidades económicas con prácticas circulares, turismo responsable o resiliencia rural, con apoyo de especialistas y actores locales.</p><p><strong>Primer concepto a validar:</strong> inclusión económica alrededor de una práctica circular concreta, codiseñada con una organización local y un municipio.</p><p class="program-result">Miraremos resultados: ingresos, continuidad de prácticas y un cambio ambiental verificable.</p><a href="enfoque.html#programa-2-medios-de-vida-que-cuidan-el-territorio">Ver la hipótesis de intervención →</a></article>
+</div></section>
+<section class="mission-section method-section" aria-labelledby="method-title"><p class="eyebrow">CÓMO QUEREMOS HACERLO</p><h2 id="method-title">Tecnología útil, decisiones con la comunidad.</h2><div class="method-grid"><div><h3>Escuchar y acordar</h3><p>Definir el problema con quienes lo viven y acordar roles con las organizaciones y autoridades que participen.</p></div><div><h3>IA con acompañamiento</h3><p>Probar ayudas para aprender, comunicar y organizar información. Verificar errores, accesibilidad y utilidad antes de ampliar su uso.</p></div><div><h3>Medir y rendir cuentas</h3><p>Preparar una línea de base, indicadores y controles de recursos. Comunicar avances y límites con evidencia.</p></div></div><p>Empezamos con foco en Cusco. Otros territorios del Perú y la futura proyección andina y amazónica requerirán diagnóstico, socios y capacidad. La operación de IA sin conexión y en lenguas locales deberá validarse; no se da por resuelta.</p></section>
+</div>
+```
+
+## Por qué esta agenda tiene sentido
+
+La coincidencia temática abre conversaciones; la necesidad local y la capacidad de ejecución deben guiar cada proyecto. Estas son señales documentadas de contexto, no convocatorias abiertas ni alianzas de nuestra iniciativa:
+
+| Evidencia | Qué aporta al enfoque |
+|---|---|
+| [Comisión Europea en Perú](https://international-partnerships.ec.europa.eu/countries/peru_en) | Su agenda vincula transición circular, inclusión y gobernanza. |
+| [Cooperación canadiense](https://www.canada.ca/en/global-affairs/news/2025/08/project-announcements-by-secretary-of-state-sarai-in-peru-and-colombia.html) | Proyectos anunciados en Perú conectan oportunidades económicas y resiliencia, con énfasis en mujeres y comunidades indígenas. Sus ámbitos específicos no se trasladan automáticamente a Cusco. |
+| [UNESCO y KOICA en Cusco](https://www.unesco.org/en/articles/unesco-peru-and-koica-mark-official-start-ayllu-verde-project-territorial-vision-circular-economy) | Ayllu Verde documenta una agenda territorial de economía circular y turismo sostenible. No implica que exista financiamiento disponible para nuestra iniciativa. |
+| [Pronatel en comunidades rurales](https://www.gob.pe/institucion/pronatel/noticias/1228839-pronatel-asegura-continuidad-de-internet-en-centros-de-acceso-digital-de-cusco-ayacucho-huancavelica-y-apurimac) | Un reporte de 2025 incluye centros de acceso digital en Cusco. Debemos conocer servicios existentes y buscar complementariedad antes de plantear una intervención. |
+
+[Leer el análisis y sus límites](../../01_investigacion/ANALISIS_PRIORIDADES_TEMATICAS.md){.mission-text-link}
+
+## Construir una alianza
+
+Estamos en una etapa de definición institucional y diseño de cartera. Nos interesa identificar **comunidades y organizaciones para el diagnóstico**, **especialistas para el codiseño** y **entidades con experiencia para posibles alianzas de ejecución**. Cada colaboración requerirá acordar responsabilidades y comprobar capacidades.
+
+Para una primera conversación proponemos delimitar un territorio, una población, un problema y el rol que cada parte puede asumir. Salud y servicios básicos forman parte de la misión; las prestaciones clínicas o de infraestructura requerirán actores habilitados y capacidades específicas.
+
+[Consultar los conceptos de proyectos](../../04_cartera_proyectos/CONCEPTOS_INICIALES.md){.btn .btn-outline-primary} [Leer el perfil de trabajo](PERFIL_INSTITUCIONAL.md){.btn .btn-outline-primary}
+
+El canal institucional de contacto se habilitará cuando esté definido. Entretanto, esta página sirve como documento público de trabajo para revisión por posibles aliados.
+
+## Investigación abierta que respalda la propuesta
+
+Conservamos un mapa inicial de **55 entidades, 45 mecanismos y 126 referencias registradas**, con corte al **22 de octubre de 2026**. Incluye fondos, programas, alianzas y apoyos no monetarios, con estados y restricciones diferentes. El análisis temático añade fuentes de contraste separadas del corte del catálogo.
+
+[Explorar oportunidades](https://luzabarcaparedes.github.io/ong-cusco/convocatorias.html) · [Recomendaciones de acceso](../../01_investigacion/RECOMENDACIONES.md) · [Mapa estratégico](../../01_investigacion/MAPA_FINANCIAMIENTO.md) · [Plan de desarrollo del sitio](../PLAN_DESARROLLO_SITIO.md)

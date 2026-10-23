@@ -5,20 +5,28 @@ project:
     - app.js
     - data/
 website:
-  title: "Mapa Integrado de Cooperación"
+  title: "Iniciativa social desde Cusco"
   site-url: https://luzabarcaparedes.github.io/ong-cusco/
   navbar:
     left:
       - href: index.qmd
-        text: Recomendaciones
+        text: Inicio
+      - href: enfoque.qmd
+        text: Nuestro enfoque
+      - href: proyectos.qmd
+        text: Proyectos en diseño
       - href: convocatorias.qmd
         text: Oportunidades
-      - href: mapa.qmd
-        text: Mapa estratégico
-      - href: proyectos.qmd
-        text: Proyectos
-      - href: fuentes.qmd
-        text: Fuentes
+      - text: Investigación
+        menu:
+          - href: mapa.qmd
+            text: Mapa estratégico
+          - href: prioridades.qmd
+            text: Prioridades de acceso
+          - href: fuentes.qmd
+            text: Fuentes del catálogo
+          - href: plan-sitio.qmd
+            text: Plan del sitio
     right:
       - href: https://github.com/luzabarcaparedes/ong-cusco
         text: GitHub
@@ -26,6 +34,10 @@ website:
     style: docked
     contents:
       - index.qmd
+      - enfoque.qmd
+      - prioridades.qmd
+      - plan-sitio.qmd
+      - perfil.qmd
       - convocatorias.qmd
       - mapa.qmd
       - europa.qmd

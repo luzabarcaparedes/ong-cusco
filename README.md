@@ -4,10 +4,13 @@ Iniciativa por constituir; nombre pendiente. Inicio y corte de esta investigaci�
 
 ## Empezar aquí
 
+- [Análisis de prioridades temáticas](01_investigacion/ANALISIS_PRIORIDADES_TEMATICAS.md).
+- [Plan de desarrollo del sitio](07_sitio_web/PLAN_DESARROLLO_SITIO.md).
+
 - [Recomendaciones y prioridades](01_investigacion/RECOMENDACIONES.md).
 - [Catálogo por país y estado](https://luzabarcaparedes.github.io/ong-cusco/convocatorias.html).
 
-Sitio generado con Quarto: portada de recomendaciones, catálogo ordenado por actualidad con filtro por país del cooperante, mapa estratégico e informes por región. [Instrucciones de reconstrucción](07_sitio_web/README.md).
+Sitio generado con Quarto: portada institucional con dos programas propuestos, análisis temático, plan del sitio y catálogo ordenado por actualidad con filtro por país del cooperante, mapa estratégico e informes por región. [Instrucciones de reconstrucción](07_sitio_web/README.md).
 
 - [Landing y catálogo público](https://luzabarcaparedes.github.io/ong-cusco/).
 - [Otras fuentes: cooperación multilateral, empresas y fondos nacionales](01_investigacion/otras_fuentes/INFORME_COMPLEMENTARIO_2026-10-22.md).

@@ -1,0 +1,69 @@
+{
+  "as_of": "2026-10-22",
+  "purpose": "Contraste temático separado del catálogo de cooperación; no actualización de todos sus estados ni conteo de documentos únicos.",
+  "sources": [
+    {
+      "id": "T01",
+      "institution": "Comisión Europea",
+      "title": "Cooperación con Perú",
+      "url": "https://international-partnerships.ec.europa.eu/countries/peru_en",
+      "access": "lectura_directa",
+      "limitation": "Agenda de transición circular, inclusión y gobernanza; no convocatoria ni compromiso con esta iniciativa.",
+      "consulted_on": "2026-10-22"
+    },
+    {
+      "id": "T02",
+      "institution": "Gobierno de Canadá",
+      "title": "Relaciones Canadá Perú",
+      "url": "https://www.international.gc.ca/country-pays/peru-perou/relations.aspx?lang=eng",
+      "access": "lectura_directa",
+      "limitation": "Orientación bilateral; separar agenda comercial y desarrollo.",
+      "consulted_on": "2026-10-22"
+    },
+    {
+      "id": "T03",
+      "institution": "Gobierno de Canadá",
+      "title": "Proyectos anunciados en Perú y Colombia en 2025",
+      "url": "https://www.canada.ca/en/global-affairs/news/2025/08/project-announcements-by-secretary-of-state-sarai-in-peru-and-colombia.html",
+      "access": "lectura_directa",
+      "limitation": "Proyectos con ejecutores designados y ámbitos propios; no oportunidades abiertas para la ONG.",
+      "consulted_on": "2026-10-22"
+    },
+    {
+      "id": "T04",
+      "institution": "UNESCO",
+      "title": "Inicio de Ayllu Verde",
+      "url": "https://www.unesco.org/en/articles/unesco-peru-and-koica-mark-official-start-ayllu-verde-project-territorial-vision-circular-economy",
+      "access": "lectura_directa",
+      "limitation": "Antecedente de economía circular en Cusco; no relación con nuestra iniciativa.",
+      "consulted_on": "2026-10-22"
+    },
+    {
+      "id": "T05",
+      "institution": "Cisco",
+      "title": "Global Impact Cash Grants",
+      "url": "https://www.cisco.com/site/us/en/about/purpose/community-resilience/investments/global-impact-cash-grants.html",
+      "access": "lectura_previa_en_mapa",
+      "limitation": "Condiciones tecnológicas y legales; no nueva validación integral de convocatoria.",
+      "consulted_on": "2026-10-22"
+    },
+    {
+      "id": "T06",
+      "institution": "Pronatel",
+      "title": "Continuidad de centros de acceso digital en 2025",
+      "url": "https://www.gob.pe/institucion/pronatel/noticias/1228839-pronatel-asegura-continuidad-de-internet-en-centros-de-acceso-digital-de-cusco-ayacucho-huancavelica-y-apurimac",
+      "access": "extracto_buscador",
+      "limitation": "La recarga directa devolvió 418; antecedente de 2025, sin verificar operación actual de cada centro.",
+      "consulted_on": "2026-10-22"
+    },
+    {
+      "id": "T07",
+      "institution": "CEPLAN",
+      "title": "Reporte Cusco oportunidades territoriales 2025",
+      "url": "https://observatorio.ceplan.gob.pe/publicacion/detalle/436",
+      "access": "extracto_buscador",
+      "limitation": "Recurso para siguiente diagnóstico; página dinámica sin texto extraído, informe completo pendiente.",
+      "consulted_on": "2026-10-22"
+    }
+  ]
+}
