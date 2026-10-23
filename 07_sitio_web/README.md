@@ -1,23 +1,15 @@
-# Landing de Proyecto Cusco
+# Sitio del Mapa Integrado de Cooperación
 
-Presentación de una iniciativa en formación y explorador de fuentes. “Proyecto Cusco” es una denominación descriptiva del sitio, no el nombre legal definitivo de la futura ONG.
+El sitio principal se genera con Quarto desde `quarto/`. Incluye mapa, catálogo filtrable de 45 mecanismos, informes por región, conceptos de proyectos y fuentes, con navegación y búsqueda de texto. La presentación de la iniciativa permanece en `docs/iniciativa/`. “Proyecto Cusco” es una denominación descriptiva; la ONG todavía no tiene nombre definitivo ni constitución.
 
-- Código editable: `src/index.html`, `src/styles.css`, `src/app.js`, `src/favicon.svg`.
-- Publicación estática: carpeta `/docs` del repositorio, rama `main`.
-- Catálogo público: fichas resumidas y fuentes; no incluye el directorio de personas/contactos.
-- Sin formularios de captación de datos, analítica ni servicios de terceros en la página.
-- Tipografías del sistema, ilustración vectorial local y sin dependencias de ejecución.
+## Reconstrucción
 
-Desde la raíz:
+Requisitos: Python 3.9 o posterior y Quarto CLI (probado con 1.10.19). Desde la raíz:
 
 ```sh
-python3 scripts/preparar_datos.py
-python3 scripts/construir_web.py
-python3 -m http.server 8080 --directory docs
+python3 scripts/construir_sitio.py
 ```
 
-Visitar `http://localhost:8080`. Los cambios del catálogo se hacen en la instantánea consolidada JSON, seguida de reconstrucción. No editar `docs/data/catalogo.json` manualmente.
+Los QMD se regeneran desde los informes Markdown; editar los MD originales y reconstruir. El catálogo parte de la instantánea consolidada JSON. Los archivos HTML de `docs/` se publican en GitHub Pages, rama `main`, carpeta `/docs`; no requieren ejecutar Quarto en el servidor.
 
-Los estados son observaciones de investigación. La página marca como pasado un plazo anterior al día actual de Perú, pero no detecta prórrogas, nuevas ediciones o cancelaciones. La fecha de corte sigue siendo visible. El conflicto de cierre DAP Australia se muestra expresamente.
-
-Para GitHub Pages: publicar desde rama `main`, carpeta `/docs`. El sitio es estático y no necesita secretos ni claves API. El directorio completo de investigación permanece en Markdown dentro del repositorio.
+No hay formularios, analítica, credenciales ni conexión a PostgreSQL. Los estados corresponden al corte de investigación; los plazos pasados se señalan sin detectar prórrogas. Las fichas públicas no incluyen personas/contactos; el directorio institucional permanece en el repositorio.

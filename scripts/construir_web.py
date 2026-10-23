@@ -17,11 +17,11 @@ for row in data['opportunities']:
 rank={'abierta':0,'recepcion_anual':1,'anunciada_condicionada':2,'por_verificar':3,'cerrada':4,'resultados_publicados':5}
 entries.sort(key=lambda r:(rank.get(r['status'],6),r['deadline_date'] or '9999',r['title']))
 public={'as_of':data['meta']['as_of'],'note':'Estados observados, no monitoreo en tiempo real. Revalidar bases y elegibilidad. No incluye contactos personales.','entries':entries}
-out=ROOT/'docs';out.mkdir(exist_ok=True);(out/'data').mkdir(exist_ok=True)
+out=ROOT/'docs/iniciativa';out.mkdir(parents=True,exist_ok=True);(out/'data').mkdir(exist_ok=True)
 for file in (ROOT/'07_sitio_web/src').iterdir():
  if file.is_file():shutil.copyfile(file,out/file.name)
 html=(out/'index.html').read_text().replace('__ENTITIES__',str(len(data['organizations']))).replace('__REFERENCES__',str(len(data['sources']))).replace('__OPPORTUNITIES__',str(len(entries)))
 (out/'index.html').write_text(html)
 (out/'data/catalogo.json').write_text(json.dumps(public,ensure_ascii=False,indent=2)+'\n')
 (out/'.nojekyll').write_text('')
-print('Landing construida en docs/:',len(entries),'fichas;',len(data['organizations']),'entidades;',len(data['sources']),'referencias.')
+print('Landing construida en docs/iniciativa/:',len(entries),'fichas;',len(data['organizations']),'entidades;',len(data['sources']),'referencias.')

@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - app.js
+    - data/
+website:
+  title: "Mapa Integrado de Cooperación"
+  site-url: https://luabarcaparedes-art.github.io/ong-cusco/
+  navbar:
+    left:
+      - href: index.qmd
+        text: Mapa y convocatorias
+      - href: proyectos.qmd
+        text: Proyectos
+      - href: fuentes.qmd
+        text: Fuentes
+    right:
+      - href: https://github.com/luabarcaparedes-art/ong-cusco
+        text: GitHub
+  sidebar:
+    style: docked
+    contents:
+      - index.qmd
+      - europa.qmd
+      - america.qmd
+      - asia.qmd
+      - oceania.qmd
+      - otras-fuentes.qmd
+      - proyectos.qmd
+      - fuentes.qmd
+  search: true
+format:
+  html:
+    theme: cosmo
+    lang: es
+    toc: true
+    css: custom.css
+    link-external-newwindow: true
+execute:
+  enabled: false

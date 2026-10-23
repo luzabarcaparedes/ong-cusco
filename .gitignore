@@ -13,3 +13,6 @@ __pycache__/
 *.log
 .openai/
 .local/
+
+.quarto/
+_site/

@@ -1,0 +1,96 @@
+---
+title: "Cooperación europea para una futura ONG en Cusco"
+---
+
+> Ampliación disponible: [mapa integrado de Europa, Estados Unidos, Canadá, Asia y Oceanía](index.qmd). Este informe conserva el corte europeo original.
+
+Fecha de corte: **22 de octubre de 2026, Perú**. Versión 0.1. Nombre de ONG pendiente.
+
+Esta primera investigación reúne fuentes oficiales y pistas de cooperación para una organización centrada en población vulnerable, empleo, educación, salud, servicios básicos y colaboración municipal. La IA se plantea como medio de inclusión y mejora de resultados, con adaptación a baja conectividad.
+
+**Europa todavía no está agotada.** Se identificaron fuentes para 22 países; otros tienen solo búsquedas exploratorias o siguen pendientes. El registro de cobertura incluye 50 países en un alcance europeo ampliado de trabajo, incluidos países transcontinentales y del Cáucaso. La UE figura aparte. No es una clasificación diplomática oficial ni implica que todos tengan embajada residente o fondos accesibles en Perú.
+
+## Decisiones principales
+
+1. Revisar inmediatamente la elegibilidad real para Chequia y las posibles alianzas alemanas. Un plazo cercano no justifica postular sin cumplir requisitos.
+2. Preparar una cartera de proyectos breves y medibles para Cusco, con socios territoriales y evidencia de necesidades.
+3. Empezar por un piloto territorial. El alcance internacional de la futura ONG no significa que una subvención permita ejecutar fuera de Perú.
+4. Identificar primero al equipo de cooperación/programas y usar sus canales institucionales. Los nombres de embajadores sirven como contexto, no prueban que evalúen propuestas.
+5. Mantener separadas la cooperación estatal, las subvenciones, los contratos y las alianzas con ONG extranjeras.
+
+## Convocatorias y vías con fechas
+
+| Vía | Situación al corte | Acceso práctico para la iniciativa | Fuente |
+|---|---|---|---|
+| Chequia, pequeña escala 2027 | Abierta; cierra 28/10/2026 | Requiere entidad inscrita; no financia proyectos de capacitación. Evaluación urgente y condicionada. | [Bases 2027](https://mzv.gov.cz/lima/es/comercio_y_economia/convocatoria_2027_para_proyectos_de_1.html) |
+| Suiza, Fondo Cultural | Regla anual: finales de octubre para año siguiente | Solo si existe vínculo cultural suizo; confirmar recepción y condiciones. | [Cultura](https://www.schweiz-peru.eda.admin.ch/es/proyectos-culturales) |
+| Alemania, IKI Medium Grants | Abierta; cierre 12/01/2027 | Buscar entidad líder alemana; prioridad de competencias verdes potencialmente afín. | [Convocatoria](https://www.international-climate-initiative.com/en/find-funding/medium-grants/medium-grants-2026/) |
+| Alemania, IKI Small Grants | Anunciada para 15/11/2026–08/01/2027, sujeta a aprobación | Validar requisitos completos y Perú; prevé inicio de proyectos desde segundo trimestre de 2028. | [Anuncio](https://www.international-climate-initiative.com/en/find-funding/small-grants/small-grants-2026/) |
+| Fondo Regional triangular alemán | Abierta; cierre 31/10/2026 | Alianza y aval institucional; entrega por embajadas. Complejidad alta para empezar. | [Convocatoria](https://fondo-cooperacion-triangular.net/), [Proceso](https://fondo-cooperacion-triangular.net/convocatorias-de-proyecto/) |
+| UE/IILA, Perú Social | Cerrada: 30/09/2026 | Muy afín a empleo y protección social; conservar como referencia. | [IILA](https://iila.org/es/convocatoria-de-subvenciones-para-experiencias-innovadoras-de-respuesta-a-problemas-de-exclusion-social-y-economica-de-personas-en-situacion-de-vulnerabilidad-con-enfasis-en-la-generacion-de-empleo-d/) |
+| Finlandia, apoyo a OSC 2027–2030 | Cerrada: postuló enero–febrero 2026 | Canal para OSC finlandesas y socios, distinto de eventual fondo local. | [Ministerio finlandés](https://um.fi/project-support-to-civil-society-organisations) |
+| Luxemburgo/Costa Rica, COOPERA | Edición 2026 cerrada | Explorar alianza regional y posible continuidad, sin nueva edición confirmada. | [Lanzamiento](https://rree.go.cr/?cat=prensa&cont=593&id=8756&sec=servicios) |
+
+Los montos, monedas, restricciones y horas publicadas están en `02_datos/europa_2026-10-22.json`. Un campo vacío significa desconocido, nunca cero. Las fechas sin hora no deben convertirse en un supuesto cierre a medianoche.
+
+En Suiza, el 31/10/2026 se guarda como representación técnica de “finales de octubre”, **inferida de la regla anual**, no como hora o fecha de cierre confirmada por una convocatoria específica. IKI Small se basa en el anuncio oficial recuperado por buscador; falta revisar la edición completa. No se ha confirmado elegibilidad peruana en las bases detalladas de IKI.
+
+## Mapa de cooperantes y acceso
+
+| País / actor | Qué se identificó en Perú o vía regional | Ruta a desarrollar |
+|---|---|---|
+| España / AECID | Agua, saneamiento e innovación; marco de asociación hasta 2027 | Oficina de cooperación y alianzas con entidades españolas; revisar elegibilidad por instrumento, sin presumir acceso directo. [Fuentes AECID](https://www.aecid.es/peru) |
+| Alemania | Bosques, biodiversidad, clima, ciudades y gobernanza | Embajada, GIZ y programas IKI; no se verificó microfondo local abierto. [Cooperación](https://lima.diplo.de/pe-es/willkommen/07-entwicklungszusammenarbeit) |
+| Suiza / SECO | Gobernanza y economía inclusiva en programa 2025–2028 | Alianzas con ejecutores; programa plurianual no equivale a convocatoria. [Programa](https://www.schweiz-peru.eda.admin.ch/es/programa-de-cooperacion-ci) |
+| Francia | AFD, cooperación sanitaria y voluntariado | Socios de sociedad civil y asistencia técnica. No se confirmó PISCCA abierto en Perú. [Relación bilateral](https://www.diplomatie.gouv.fr/en/information-by-country/peru/france-and-peru), [Voluntariado](https://france-volontaires.org/es/dans-le-monde/peru/) |
+| Reino Unido | Antecedentes de diálogo ciudadano, derechos y empleo inclusivo | Consultar programación futura. Las ediciones 2024 no se consideran abiertas. [Ejemplo empleo](https://www.gov.uk/government/news/call-for-bids-peru-promoting-lgbt-rights-in-the-workplace) |
+| Bélgica | Cooperación gubernamental terminó en 2019; continúan programas con ONG belgas | Identificar socios de los programas 2022–2026 y confirmar ciclo siguiente. La página de referencia se actualizó en 2023. [Embajada](https://perou.diplomatie.belgium.be/es/cooperaci%C3%B3naldesarrollo/peru) |
+| Países Bajos | Human Rights Fund tiene canal por embajadas | Pedir prioridades y disponibilidad peruana; no se verificó convocatoria local vigente. [Fondo](https://www.government.nl/themes/international-cooperation/human-rights/human-rights-fund) |
+| Finlandia | Directorio actual y ciclo para OSC finlandesas | Confirmar si existe presupuesto FLC para Perú; antecedentes antiguos no garantizan continuidad. [Embajada](https://finlandabroad.fi/web/per/embajada) |
+| Italia | Red de ONG y cartera AICS con salud, telemedicina y producción amazónica | Alianzas con ejecutores. Fondo Ítalo-Peruano cerró en 2018. [Embajada](https://amblima.esteri.it/es/italia-e-peru/cooperazione-allo-sviluppo/), [OpenAid](https://www.openaid.aics.gov.it/recipient-country/PE) |
+| Noruega | Representación desde Santiago y portal MFA/Norad | Revisar convocatorias temáticas; no se verificó una convocatoria accesible a esta ONG. [Representación](https://www.norway.no/es/peru/), [Portal](https://grants.mfa.no/) |
+| Suecia | Anuncio de reapertura en Perú para 2026 | Confirmar apertura efectiva, equipo y canal de cooperación; no presuponer fondo. [Gobierno sueco](https://www.regeringen.se/pressmeddelanden/2025/12/sverige-oppnar-ambassad-i-peru/) |
+| Chequia | Fondo directo de pequeña escala | Mejorar ingresos y condiciones de población vulnerable con resultados sostenibles; encaje debe respetar exclusiones. Fuente en tabla de convocatorias. |
+| Austria | Cooperación cultural/científica y antecedente educativo en Pozuzo | Relación institucional exploratoria; no fondo social abierto confirmado. [Cultura y ciencia](https://www.bmeia.gv.at/es/ea-lima/relaciones-bilaterales/cultura-y-ciencia/) |
+| Polonia | CEAC de Universidad de Varsovia en Cusco | Alianza académica potencial; no acredita fondo concursable de embajada. [Relación bilateral](https://www.gov.pl/web/peru-es/cuba) |
+| Hungría | Becas y cooperación universitaria | Ruta educativa, sin subvención ONG verificada. [Embajada](https://lima.mfa.gov.hu/es) |
+| Portugal | Cooperación triangular con PALOP, segunda convocatoria con resultados | Alianzas; no edición 2027 confirmada. [APCI](https://www.gob.pe/114027-ii-convocatoria-del-fondo-de-cooperacion-triangular-portugal-america-latina-palop-nuevo) |
+| Luxemburgo | COOPERA con Costa Rica y ALC | Inclusión, mujeres, jóvenes y clima mediante alianzas. [APCI](https://www.gob.pe/116162-programa-coopera-apoyo-a-la-cooperacion-sur-sur-y-triangular-nuevo) |
+| Liechtenstein / LED | Perú es país prioritario; educación y desarrollo rural | Prioridad de investigación para identificar socios y procedimiento de entrada. No convocatoria abierta verificada. [Gobierno](https://www.llv.li/de/landesverwaltung/amt-fuer-auswaertige-angelegenheiten/themen/internationale-humantaere-zusammenarbeit-und-entwicklung/bilaterale-entwicklungszusammenarbeit) |
+| Irlanda | Civil Society Fund para entidades irlandesas e internacionales invitadas | Alianza potencial; no libre postulación peruana confirmada. [Irish Aid](https://www.ireland.ie/en/irish-aid/who-we-work-with/civil-society/) |
+| Eslovaquia | Mecanismo general de microgrants | No se confirmó Perú entre países elegibles. [SlovakAid](https://slovakaid.sk/mikrogranty/) |
+| Eslovenia | Marco geográfico de cooperación identificado | Revisión parcial, sin oportunidad peruana comprobada. [Prioridades](https://www.gov.si/en/topics/thematic-and-geographic-priorities-of-slovenias-development-cooperation/) |
+| Grecia | Intercambio sobre patrimonio arqueológico con Perú | Antecedente de cooperación; sin financiación concursable comprobada. [Cancillería](https://www.gob.pe/institucion/rree/noticias/1369322-peru-y-grecia-fortalecen-cooperacion-en-materia-de-proteccion-del-patrimonio-arqueologico) |
+
+## Qué se sabe específicamente de Cusco
+
+- **España:** AMSAT Cusco–Apurímac es un precedente de agua y saneamiento finalizado en 2022. [Memoria FCAS](https://memoriafcas2022.aecid.es/peru/)
+- **España:** la cuenta institucional de AECID anunció en 2026 una iniciativa de acuaponía con Universidad de Sevilla y Guaman Poma. Es una pista de innovación productiva; falta corroborar expediente, monto y fechas. [Anuncio institucional](https://es.linkedin.com/posts/aecid-peru_innovaci%C3%B3n-sostenible-para-llevar-a-la-mesa-activity-7467300303101607937-dS1J)
+- **Suiza:** el Gobierno Regional informó en 2026 sobre cooperación para gestión y servicios públicos. Requiere desagregar los proyectos y ejecutores. [Gobierno Regional](https://www.gob.pe/institucion/regioncusco/noticias/1383560-gobierno-regional-cusco-y-suiza-consolidan-alianza-para-fortalecer-servicios-publicos-y-desarrollo-social-en-la-region)
+- **Francia:** Antonio Lorena figura en cooperación hospitalaria Gobierno a Gobierno. Es antecedente sanitario territorial; no demuestra acceso de ONG a fondos. [PRONIS](https://www.gob.pe/institucion/pronis/campa%C3%B1as/98493-proyectos-de-estado-a-estado-con-francia)
+- **Polonia:** presencia académica del CEAC; no confundir con adjudicación de una subvención social. [Embajada](https://www.gov.pl/web/peru-es/cuba)
+- **Reino Unido:** reporte de 2024 recoge intercambio con actores de Cusco. Menciona una propuesta sobre defensoras, sin acreditar adjudicación local. [Reporte](https://assets.publishing.service.gov.uk/media/688c948ee8ba9507fc1b0937/2024_UK_annual_report.pdf)
+
+Para los demás países, no quedó acreditado un proyecto financiado en Cusco en esta revisión. **Eso no prueba que no exista.** La siguiente extracción territorial debe hacerse en el [Mapa CTI de APCI](https://mapacti.apci.gob.pe/), contrastando ejecutor, fuente original, fecha y ubicación. Esa extracción aún no se realizó.
+
+## Qué podemos afirmar de 2027
+
+Hay una convocatoria checa específicamente para ejecución 2027. Los calendarios IKI cruzan 2026–2027, pero Small prevé ejecución posterior. Finlandia ya convocó en 2026 su ciclo 2027–2030. El marco español y el programa suizo abarcan 2027, pero no anuncian por sí mismos nuevas convocatorias.
+
+No se confirmó una reedición 2027 para Perú Social, fondos británicos locales, FLC finlandés, Human Rights Fund peruano o COOPERA. No corresponde asignarles meses de apertura basados solo en costumbre.
+
+## Contactos y aproximación
+
+El directorio conserva 14 puntos de contacto y 7 personas con cargos públicos publicados. Cada registro tiene fuente y fecha. Los nombres con evidencia anterior deben reconfirmarse antes de una carta nominal. No se han enviado comunicaciones.
+
+Usar el buzón de cooperación/programa y solicitar el punto focal temático. Presentar la iniciativa honestamente como organización **en proceso de constitución**. Adjuntar después una nota conceptual concreta, territorio, aliados e indicadores. No afirmar personería, experiencia institucional o resultados todavía inexistentes.
+
+Consultar por: elegibilidad de entidades nuevas; posibilidad y reglas de alianzas; prioridades territoriales; gastos elegibles; contrapartida; mecanismo de seguimiento público. Evitar correos de visados, emergencias y convocatorias laborales para pedir fondos.
+
+## Límites y control de calidad
+
+La mayoría de referencias se recuperó mediante extractos indexados de páginas oficiales; el archivo de fuentes distingue estos de las páginas cuyo contenido se abrió. Las páginas pueden cambiar o retirar documentos. No se descargó ni archivó íntegramente cada fuente. Antes de postular hay que revisar bases, anexos, adendas y confirmar que no haya prórrogas o cancelaciones.
+
+Se detectaron páginas históricas que parecen actuales por su fecha de rastreo; se conservó la fecha del contenido cuando fue visible. El listado APCI de mayo sobre el fondo triangular alemán no incorpora necesariamente la convocatoria de agosto: prevalece el anuncio posterior del operador para ese evento, guardando la discrepancia.
+
+La revisión de constitución y normativa peruana, la investigación de fondos empresariales, el sitio web y las cartas serán fases posteriores. No se formulan aquí conclusiones jurídicas sobre requisitos APCI o registro de ONG.

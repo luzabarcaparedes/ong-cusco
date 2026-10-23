@@ -1,6 +1,6 @@
 # Publicación en GitHub
 
-Destino previsto: `luabarcaparedes-art/ong-cusco`, repositorio público con investigación, datos y landing estática. La publicación fue solicitada por la titular del proyecto.
+Repositorio creado: `luabarcaparedes-art/ong-cusco`, repositorio público con investigación, datos y landing estática. La publicación fue solicitada por la titular del proyecto.
 
 La sesión web se verificó con la cuenta `luabarcaparedes-art`. La autenticación de terminal requiere autorización independiente de GitHub CLI. No se trasladan cookies del navegador ni se almacenan claves en el proyecto.
 
@@ -13,3 +13,10 @@ Contenido preparado:
 - Archivos locales, credenciales y dependencias excluidos mediante `.gitignore`.
 
 La publicación solo se considera completada después de confirmar el repositorio remoto y, para la landing, una URL de GitHub Pages accesible.
+
+
+## Publicación Quarto
+
+Cuenta de terminal confirmada: `luabarcaparedes-art`. Repositorio: https://github.com/luabarcaparedes-art/ong-cusco . GitHub Pages configurado desde `main:/docs` en https://luabarcaparedes-art.github.io/ong-cusco/ . Fuentes QMD en `07_sitio_web/quarto`, generadas desde los MD originales. Quarto CLI 1.10.19 oficial usado temporalmente, con SHA-256 verificado; no se incluye su ejecutable.
+
+Se verificaron generación de las ocho páginas Quarto, enlaces y recursos locales, y funcionamiento del catálogo mediante DOM. PostgreSQL continúa pendiente de instalación y prueba real.

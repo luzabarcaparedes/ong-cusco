@@ -4,6 +4,8 @@ Iniciativa por constituir; nombre pendiente. Inicio y corte de esta investigaci�
 
 ## Empezar aquí
 
+Sitio generado con Quarto: mapa navegable, informes por región, proyectos y catálogo filtrable. [Instrucciones de reconstrucción](07_sitio_web/README.md).
+
 - [Landing y catálogo público](https://luabarcaparedes-art.github.io/ong-cusco/).
 - [Otras fuentes: cooperación multilateral, empresas y fondos nacionales](01_investigacion/otras_fuentes/INFORME_COMPLEMENTARIO_2026-10-22.md).
 
